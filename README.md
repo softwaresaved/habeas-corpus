@@ -7,7 +7,7 @@ This is work done during the hack day at [Collaborations Workshop 2021](https://
 **_Habeas Corpus_ is a collaborative project** and we welcome suggestions and contributions. We hope one of the invitations below works for you, but if not, please let us know!
 
 :running: **I'm busy, I only have 1 minute**
-- 
+- Tell a friend about the project!
 
 :hourglass_flowing_sand: **I've got 5 minutes - tell me what I should do**
 - Suggest ideas for how you would like to use _Habeas Corpus_

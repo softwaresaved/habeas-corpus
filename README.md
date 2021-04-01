@@ -31,6 +31,8 @@ This project originated as part of the Collaborations Workshop 2021.
 
 It was based on an original idea by Neil Chue Hong (@npch) and Stephan Druskat (@sdruskat), incorporated ideas and feedback from Michelle Barker, Daniel S. Katz, Shoaib Sufi, Carina Haupt and Callum Rollo, and was developed by Alexander Konovalov (@alex-konovalov), Hao Ye (@ha0ye), Louise Chisholm (@LouiseChisholm), Mark Turner (@MarkLTurner), Neil Chue Hong (@npch), Sammie Buzzard (@sammiebuzzard), and Stephan Druskat (@sdruskat).
 
+The data is derived from the ["CORD-19 Software Mentions"](https://datadryad.org/stash/dataset/doi:10.5061/dryad.vmcvdncs0) dataset published by Alex D Wade and Alana Williams from the Chan Zuckerberg Initiative and released under a CC0 license. 
+
 
 ## References :books:
 

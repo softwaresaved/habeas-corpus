@@ -6,7 +6,10 @@ source(here::here("R/github-lookup-functions.R"))
 # check for github PAT and error if it is not set ----
 # this prevents rate-limiting from otherwise halting execution
 
-# gh_token()
+if (gh_token() == "")
+{
+    stop("No GitHub PAT detected; please set one before running this script; see https://usethis.r-lib.org/articles/articles/git-credentials.html for more info.")
+}
 
 # read in cleaned data ----
 data_file <- here::here("data/output/CORD19_sampled_with_repos.csv")

@@ -1,6 +1,6 @@
 # Output files
 
-This directory contains processed files based on the original CORD-19 software mentions dataset.
+This directory contains processed files based on the original CORD-19 software mentions dataset. These datasets are released by the project under a CC0 license.
 
 The files are:
 

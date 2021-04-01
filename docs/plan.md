@@ -36,3 +36,26 @@
 |How detailed is the mention of the software (e.g. citation, version number, release year)| Full text encoding? | This might be better applied to the SoftCite dataset which has this information already coded and annotated|
 |Summarise by platform, e.g. all Python packages | Platform metadata | Or some external source that allows understanding of what software is "similar" |
 
+## Suggested Annotation Format
+
+* Software Title (String)
+* Number of unique papers that mention it at least once (Integer)
+* Link to code repository (if available) (URI)
+* List of papers which mention software title (list of DOIs/URIs)
+* List of titles that map to this (list of Strings)
+
+### Information we want to derive from this data
+
+- Dependencies: we could create a utility that leverages [GitHub's support for understanding dependencies](https://docs.github.com/en/code-security/supply-chain-security/exploring-the-dependencies-of-a-repository)
+- License type: we could use existing utilities for finding the license of a GitHub repo
+- Academic disciplines: we could create a tool that extracts JATS4R Subject and Keyword tags: https://www.niso.org/publications/rp-32-2019-jats4r-subjects-and-keywords-v1
+- Funders: we could use PID Graph / OpenAIRE funder database, or scrape from papers
+
+### Other databases that we could combine that allow us to answer more questions
+
+- What software is used on national Tier-1 / Tier-2 facilities
+- What software depends / is a dependency of this
+- Canonical list of disciplines
+- Wikidata
+
+

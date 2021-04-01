@@ -1,0 +1,103 @@
+Rank,Title,Mentions,Code Repository,Annotator,QA Code,Notes
+1,Sequencher,123,,Stephan,SC,Double check: probably commercial from http://www.genecodes.com/
+2,Access,114,,Sammie,SC,Commercial software: https://www.microsoft.com/en-gb/microsoft-365/access
+3,ENE,20,,Mark,UN,Not tracable to software
+4,Spectra,10,,Neil,UN,Double check papers - most are not software - one might be https://onlinelibrary.wiley.com/doi/full/10.1107/S090904950101425X?sentby=iucr
+5,JAM,6,https://github.com/pjnewcombe/R2BGLiMS,Stephan,SO,"""we have incorporated the JAM algorithm into our existing fully documented R package for Bayesian model selection"" Newcombe PJ, Conti DV, Richardson S. Jam: a scalable bayesian frame-670work for joint analysis of marginal snp effects. Genetic epidemiology2016;40(3):188–201."
+6,Ensembl genome browser,5,https://github.com/Ensembl,Sammie,SO,
+7,Empower R,4,,Mark,UN,plankton modelling testbed though no link to code
+8,CSSA,4,https://github.com/jpoell/CSSA,Neil,SO,Check that this is the right software!
+9,Capt,4,-,Stephan,ST,"Actually ""Photo-Capt"":  Photo-Capt  12.4  software  (Vilber  Lourmat,  Eberhard-zell, Germany), http://www.labindia.com/labindia_instrument/pdf/vilber.pdf: ""Photo-Capt software for basic image analysis"""
+10,Adobe Premiere Pro,3,,Sammie,SC,Commercial software: https://www.adobe.com/products/premiere.html?sdid=KKQOM&mv=search&ef_id=CjwKCAjw3pWDBhB3EiwAV1c5rOlsrqQ4LiEuzIzwjEKuvP-JTWHCPuX3H7L57_9LoilaJ2tBEmP7-xoC2aYQAvD_BwE:G:s&s_kwcid=AL!3085!3!383822106390!e!!g!!adobe%20premier%20pro&gclid=CjwKCAjw3pWDBhB3EiwAV1c5rOlsrqQ4LiEuzIzwjEKuvP-JTWHCPuX3H7L57_9LoilaJ2tBEmP7-xoC2aYQAvD_BwE
+11,SitRep,3,,Mark,NA,Don't think this is software; rather a report
+12,Quilmes,2,,Neil,NA,Not software - reference to a place
+13,NHS Digital Data Science Server,2,-,Stephan,NA,A server
+14,DHC,2,,Sammie,NA,"Company not software: ('Electronic Health Records and Laboratory Information Management System provided by DHC Software Co., Ltd (Beijing, China)')"
+15,CARRA,2,,Mark,SC,Commercial imaging thing?: https://www.daz3d.com/carrara-8-5-pro
+16,VSA,2,,Neil,SC,Commercial package? https://www.keysight.com/zz/en/software/application-sw/89600-vsa-software.html
+17,RoIAlign,2,,Stephan,SF,"https://paperswithcode.com/method/roi-align; He K, Gkioxari G, Dollár P, Girshick R. Mask r-cnn. In: Proceedings of 
+the IEEE international conference on computer vision; 2017. p. 
+2961–2969."
+18,COVIDScholar,2,,Sammie,SC,Links broken: https://covidscholar.org/
+19,EVOLIS,1,,Mark,SC,? https://www.evolis.com/software ???
+20,CovidGC,1,,Neil,ST,Typo - it should be CovidCG: https://covidcg.org/
+21,QuickLook,1,,Stephan,SC,Probably image preview feature of MacOS: https://en.wikipedia.org/wiki/Quick_Look
+22,Blutooth,1,,Sammie,NT,German language paper (typo of Bluetooth)
+23,TekStack,1,,Mark,SC,?? https://www.tekstack.com/
+24,PSR,1,,Neil,ST,"Probably should be PSR-ELM. Described in paper, but no repo"
+25,Nano Analyzer,1,,Stephan,SC,Probably commercial software coming with https://www.tainstruments.com/dma-850/
+26,TmHMM,1,,Sammie,SC,Free fownload but no github: https://services.healthtech.dtu.dk/software.php
+27,NoEMi,1,,Mark,SC,? https://www.archiexpo.com/prod/mills/product-72401-1752412.html
+28,Clubhouse,1,,Neil,NA,Not software - wrongly identified
+29,Kontaminant,1,https://github.com/TGAC/kontaminant,Stephan,SO,
+30,SQID,1,https://github.com/Wikidata/SQID/,Sammie,SO,
+31,Quantile plot,1,https://github.com/rwoldford/qqtest,Mark,SO,https://github.com/rwoldford/qqtest
+32,Grommet,1,https://github.com/grommet/grommet,Neil,SO,
+33,Trailblazer,1,,Stephan,SC,Probably this web app by CRUK: https://www.cancerresearchuk.org/get-involved/citizen-science/the-projects?_gl=1*1epv0cu*_ga*MTYwODIzMTI5My4xNjE3Mjc0MTE3*_ga_58736Z2GNN*MTYxNzI3NDExNi4xLjEuMTYxNzI3NDEyMi41NA..#collapsecitizenscience4
+34,TFmodisco,1,https://github.com/kundajelab/tfmodisco,Sammie,SO,
+35,"R package "" KernSmooth """,1,https://github.com/cran/KernSmooth,Mark,SO,https://github.com/cran/KernSmooth
+36,ProtoArray Prospector,1,,Neil,SC,Commercial: https://www.thermofisher.com/uk/en/home/life-science/protein-biology/protein-assays-analysis/protein-microarrays/technical-resources/data-analysis.html
+37,EPI Tools,1,,Stephan,SF,"Summarization of several tools: EPI Info (https://www.cdc.gov/epiinfo/index.html), and other EPI Tools"
+38,crawler4j,1,https://github.com/yasserg/crawler4j,Sammie,SO,
+39,Biggert,1,,Mark,NA,Not software
+40,MathI,1,https://github.com/gmiaslab/mathiomica,Neil,ST,Mislabelled - should be MathIOmica
+41,xEMU,1,,Stephan,NA,"NASA’s Exploration Extravehicular Activity Mo-bility  Unit  (xEMU)  spacesuits, not software"
+42,https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neill/papers/ISDS2009b.pdf,1,,Sammie,NA,https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neill/papers/ISDS2009b.pdf
+43,MADDVIPR,1,,Mark,NA,Its a forthcoming internet security project
+44,lmer R package,1,https://github.com/lme4/lme4,Neil,SO,Probably should be lme4 package (which contains lmer) but might be lmerTest https://github.com/runehaubo/lmerTestR
+45,netCTLpan1,1,,Stephan,ST,Actually netCTLpan1.1 (http://www.cbs.dtu.dk/services/NetCTLpan/ )
+46,dGL Logic,1,,Sammie,NA,Method rather than software
+47,GROWSEQUENCE,1,,Mark,NA,Not a software
+48,xPONENT3,1,,Neil,SC,Actually xPONENT3.01 in paper: refers to this commercial software: https://www.luminexcorp.com/eu/xponent/
+49,LDMAP,1,,Stephan,NA,Not software (data structure or set I think?): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC122347/
+50,PhoX,1,,Sammie,UN,Not actually used- listed as an example of something Emacs supports
+51,bs4,1,https://github.com/getanewsletter/BeautifulSoup4,Mark,SO,copied here: https://github.com/getanewsletter/BeautifulSoup4
+52,Altera,1,,Neil,NA,Not software - a hardware device eFlow(Altera)
+53,MeVis Pulmo3D,1,,Stephan,SC,https://www.mevis.fraunhofer.de/en/solutionpages/lung-image-analysis.html
+54,Trich,1,,Sammie,NA,"This is not software, it's a cow STD"
+55,MonoLEX,1,,Mark,NA,Method rather than software
+56,ENSEMBL browser,1,https://github.com/Ensembl/ensembl-client,Neil,SO,https://www.ensembl.org/index.html
+57,Curio SmartChat,1,,Stephan,SC,"NLP Software, no code available: https://paperswithcode.com/paper/curio-smartchat-a-system-for-natural-language"
+58,dsicuss,1,,Sammie,NT,Not software- typo of discuss
+59,MedidataRave,1,,Mark,SC,commercial https://ecog-acrin.org/resources/medidata-rave
+60,Mac3−DPUP,1,,Neil,NA,Not software - genetic sequence
+61,Rerank,1,,Stephan,NA,Not software
+62,Unity Engine,1,,Sammie,SC,Commercial software https://unity.com/
+63,smartrcts,1,,Mark,NA,General description for app-accompanied clinical trials
+64,GSP5,1,,Neil,ST,Typo - should be GPS5: http://gps.biocuckoo.cn/index.php
+65,polycor R package,1,http://r-forge.r-project.org/scm/?group_id=280,Stephan,SO,
+66,InSync,1,,Sammie,NA,Not software: research and survey consulting firm
+67,VisBubbles,1,,Mark,NA,https://www.deviantart.com/undefinist/art/VisBubble-Round-Visualizer-for-Rainmeter-488601501
+68,Cytargetlinker,1,,Neil,SF,Duplicate: Part of Cytoscape package
+69,io API,1,,Stephan,ST,"Actually: genderizer.io API, removed from CRAN"
+70,ChEMU,1,,Sammie,NA,Not software: a lab
+71,CAM06,1,,Mark,NA,Not software: https://www.amazon.co.uk/Akhan-CAM06-9-reversing-parking-license/dp/B01ELRUJDA
+72,AAD,1,,Neil,NA,Not software - an approach that was implemented in Eigen https://gitlab.com/libeigen/eigen.git
+73,Inspect,1,,Stephan,ST,"Actually: Net-Inspect (https://www.net-inspect.com/), commecrcial"
+74,comPARE,1,,Sammie,SC,"Web resource, link broken"
+75,eArrayXD,1,,Mark,SC,Possible: https://earray.chem.agilent.com/earray/helppages/index.htm#search_for_earrayxd_microarray_designs.htm
+76,GoArray,1,,Neil,ST,Actually: GoArrays https://g2im.u-clermont1.fr/serimour/goarrays/index.html
+77,fixbb,1,,Stephan,UN,Links to papers without any software mentions?!?
+78,AfCFTA,1,,Sammie,NA,Not software: The African Continental Free Trade Agreement
+79,DataMart,1,,Mark,NA,Not software
+80,ComBat (SVA,1,,Neil,SF,Part of the SVA R package; https://git.bioconductor.org/packages/sva
+81,NOEnet,1,,Stephan,UN,Links to 404
+82,openQA,1,https://github.com/os-autoinst/openQA/blob/master/docs/Installing.asciidoc,Sammie,SO,
+83,GeneRuner,1,,Mark,SC,http://www.generunner.net/
+84,PNEU,1,,Neil,NT,Not software - PCR test and misidentified should be FA-PNEU
+85,Anvirzel,1,,Stephan,NA,"Not software, actually a cardiac glycoside"
+86,PDBQT,1,,Sammie,NA,Not software: file format
+87,ParaoFuturoAgora,1,,Mark,NA,Not a software
+88,MANCHE,1,,Stephan,NA,"Not a software, the German word for ""some"", capitalized in an interview transcript for emphasis"
+89,EuroWordNet,1,,Alex,SC,https://archive.illc.uva.nl//EuroWordNet/
+90,Eustite,1,,Alex,NA,Not a software (EU-funded 3-year program)
+91,SYN,1,,Alex,ST,"Should by SYN++, companion code to SYNAPPS. But the paper https://doi.org/10.1093/mnras/staa4047 is on astrophysics"
+92,PAXLST,1,,Alex,NA,"Not a software (format for passenger lists, see https://service.unece.org/trade/untdid/d02b/trmd/paxlst_c.htm)"
+93,HUPO Investigation,1,,Alex,NA,Not a software. Also HUPO. Abbreviation for Human Proteome Organisation
+94,Adequest,1,,Alex,SC,"Software by Baxter, Inc. - see https://renalcare.baxter.com/products/sharesource"
+95,Gibson,1,https://github.com/StanfordVL/GibsonEnv,Alex,SO,See also http://gibsonenv.stanford.edu/
+96,NRSur PHM,1,,Alex,SC,Astrophysics code. The name stands for the models called are called NRSur7dq4 and NRSur7dq4Remnant. Both models are made publicly available through the gwsurrogate and surfinBH python packages
+97,PVSio,1,https://github.com/pvsioweb/pvsio-web,Stephan,ST,Actually: PVSio-Web; 
+98,Oxford,1,,Sammie,NA,Not software: University
+99,Proteus Discover,1,,Mark,NA,Seems to be a company: https://www.lottiecrumbleholme.com/proteus-discover though they may produce a software by this name?
+100,discmo,1,,Neil,ST,Mispelling of R package disco: https://github.com/cran/disco

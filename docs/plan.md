@@ -23,7 +23,7 @@
 |Question|Data / Metadata required|Notes|
 |--------|------------------------|-----|
 |Most popular software|Software mentions, software aliases|
-|Usage| ? |How do we identify number of users? Number of unique publication authors who mention it? |
+|Usage| ? |How do we identify number of users? Number of unique publication authors who mention it? Number of unique publications that mention it?|
 |Type of License| Link to code repository or license file | Should this be dynamically fetched? |
 |Filter software by purpose|?| Requires classification of purpose |
 |How software is being used| Where software is mentioned, other context? | Is there a good way of doing this in an automated way? |

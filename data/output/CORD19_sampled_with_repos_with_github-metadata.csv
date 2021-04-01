@@ -1,0 +1,16 @@
+Title,Mentions,Code.Repository,license_key,license_name,license_url
+JAM,6,https://github.com/pjnewcombe/R2BGLiMS,gpl-3.0,GNU General Public License v3.0,https://api.github.com/licenses/gpl-3.0
+Ensembl genome browser,5,https://github.com/Ensembl,NA,NA,NA
+CSSA,4,https://github.com/jpoell/CSSA,NA,NA,NA
+Kontaminant,1,https://github.com/TGAC/kontaminant,NA,NA,NA
+SQID,1,https://github.com/Wikidata/SQID/,apache-2.0,Apache License 2.0,https://api.github.com/licenses/apache-2.0
+Grommet,1,https://github.com/grommet/grommet,apache-2.0,Apache License 2.0,https://api.github.com/licenses/apache-2.0
+TFmodisco,1,https://github.com/kundajelab/tfmodisco,mit,MIT License,https://api.github.com/licenses/mit
+crawler4j,1,https://github.com/yasserg/crawler4j,apache-2.0,Apache License 2.0,https://api.github.com/licenses/apache-2.0
+MathI,1,https://github.com/gmiaslab/mathiomica,other,Other,other
+lmer R package,1,https://github.com/lme4/lme4,other,Other,other
+ENSEMBL browser,1,https://github.com/Ensembl/ensembl-client,apache-2.0,Apache License 2.0,https://api.github.com/licenses/apache-2.0
+polycor R package,1,http://r-forge.r-project.org/scm/?group_id=280,NA,NA,NA
+openQA,1,https://github.com/os-autoinst/openQA/blob/master/docs/Installing.asciidoc,NA,NA,NA
+Gibson,1,https://github.com/StanfordVL/GibsonEnv,mit,MIT License,https://api.github.com/licenses/mit
+PVSio,1,https://github.com/pvsioweb/pvsio-web,NA,NA,NA

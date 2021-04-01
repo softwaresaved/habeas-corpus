@@ -42,7 +42,7 @@ the IEEE international conference on computer vision; 2017. p.
 39,Biggert,1,,Mark,NA,Not software
 40,MathI,1,https://github.com/gmiaslab/mathiomica,Neil,ST,Mislabelled - should be MathIOmica
 41,xEMU,1,,Stephan,NA,"NASA’s Exploration Extravehicular Activity Mo-bility  Unit  (xEMU)  spacesuits, not software"
-42,https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neill/papers/ISDS2009b.pdf,1,,Sammie,NA,https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neill/papers/ISDS2009b.pdf
+42,GraphScan,1,,Sammie,NA,https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/neill/papers/ISDS2009b.pdf
 43,MADDVIPR,1,,Mark,NA,Its a forthcoming internet security project
 44,lmer R package,1,https://github.com/lme4/lme4,Neil,SO,Probably should be lme4 package (which contains lmer) but might be lmerTest https://github.com/runehaubo/lmerTestR
 45,netCTLpan1,1,,Stephan,ST,Actually netCTLpan1.1 (http://www.cbs.dtu.dk/services/NetCTLpan/ )

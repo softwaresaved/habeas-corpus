@@ -7,12 +7,14 @@ SAMPLE_COUNT = 100
 i = 0
 with open('../cord-19/CORD19_software_mentions.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
-    for line in csv_reader:
-        i += 1
-    
-n = i #number of records in file
-s = 100 #desired sample size
-filename = "../cord-19/CORD19_software_mentions.csv"
-skip = sorted(random.sample(range(n),n-s))
-df = pandas.read_csv(filename, skiprows=skip)
-df.to_csv('output.csv', sep=',')
+    row_count = sum(1 for row in csv_reader)
+    rand_ints = random.sample(range(1, row_count), SAMPLE_COUNT)
+    with open('output.csv', 'w') as output:
+        output_writer = csv.writer(output, delimiter=',')
+        csv_file.seek(0)
+        for row in csv_reader:
+            if i == 0 or i in rand_ints:
+                output_writer.writerow(row)
+            i += 1
+
+

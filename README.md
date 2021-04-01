@@ -31,7 +31,7 @@ For the bigger picture, please check and contribute to [plan.md](docs/plan.md)
 
 ## Licensing
 
-Software code and notebooks from this project are licensed under the open source MIT license. Data produced by this project is licensed under CC0. Other data included in this project from other sources remains licensed under its original license.
+Software code and notebooks from this project are licensed under the open source MIT license. Project documentation and images are licensed under CC BY 4.0. Data produced by this project in the data/outputs directory is licensed under CC0. Other data included in this project from other sources remains licensed under its original license.
 
 ## Acknowledgements :family:
 

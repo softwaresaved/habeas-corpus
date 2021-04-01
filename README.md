@@ -32,12 +32,11 @@ This project originated as part of the Collaborations Workshop 2021.
 It was based on an original idea by Neil Chue Hong (@npch) and Stephan Druskat (@sdruskat), incorporated ideas and feedback from Michelle Barker, Daniel S. Katz, Shoaib Sufi, Carina Haupt and Callum Rollo, and was developed by Alexander Konovalov (@alex-konovalov), Hao Ye (@ha0ye), Louise Chisholm (@LouiseChisholm), Mark Turner (@MarkLTurner), Neil Chue Hong (@npch), Sammie Buzzard (@sammiebuzzard), and Stephan Druskat (@sdruskat).
 
 The data is derived from the ["CORD-19 Software Mentions"](https://datadryad.org/stash/dataset/doi:10.5061/dryad.vmcvdncs0) dataset published by Alex D Wade and Alana Williams from the Chan Zuckerberg Initiative and released under a CC0 license. 
-This work is also bsaed on the [Softcite dataset](https://github.com/howisonlab/softcite-dataset) [v1.0](https://github.com/howisonlab/softcite-dataset/releases/tag/v1.0):  
-- Du, C., Cohoon, J., Lopez, P., & Howison, J. (forthcoming). Softcite Dataset: A Dataset of Software Mentions in Biomedical and Economic Research Publications. Journal of the Association for Information Science and Technology. DOI: [10.1002/asi.24454](https://doi.org/10.1002/asi.24454).
 
 ## References :books:
 
-- [SoftCite dataset](https://github.com/howisonlab/softcite-dataset)
+- [Softcite dataset](https://github.com/howisonlab/softcite-dataset) [v1.0](https://github.com/howisonlab/softcite-dataset/releases/tag/v1.0):  
+Du, C., Cohoon, J., Lopez, P., & Howison, J. (forthcoming). Softcite Dataset: A Dataset of Software Mentions in Biomedical and Economic Research Publications. Journal of the Association for Information Science and Technology. DOI: [10.1002/asi.24454](https://doi.org/10.1002/asi.24454).
 - [CORD-19 Software Mentions](https://datadryad.org/stash/dataset/doi:10.5061/dryad.vmcvdncs0)
 - [Software in the Scientific Literature: Problems with Seeing, Finding, and Using Software Mentioned in the Biology Literature](http://james.howison.name/pubs/howison-bullard-2015-software-citation.pdf)
 - [Introducing the PID Graph](https://www.project-freya.eu/en/blogs/blogs/the-pid-graph)

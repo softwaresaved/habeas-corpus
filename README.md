@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/softwaresaved/habeas-corpus/main)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/softwaresaved/habeas-corpus/main?filepath=notebooks/CORD-19-viewer.ipynb)
 
 # Habeas Corpus
 

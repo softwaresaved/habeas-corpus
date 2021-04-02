@@ -22,5 +22,5 @@ license_data <- do.call(rbind, lapply(repo_addr, get_license_from_repo_addr))
 
 # merge license info and write out
 data_out <- cbind(data_in, license_data)
-output_file <- here::here("data/output/CORD19_sampled_with_repos_with_github-metadatada.csv")
+output_file <- here::here("data/output/CORD19_sampled_with_repos_with_github-metadata.csv")
 write.csv(data_out, output_file, row.names = FALSE, quote = FALSE)

@@ -1,0 +1,16 @@
+Code,Description
+PUB,Cite to publication
+MAN,Cite to manual
+PRO,Cite to project name or website
+INS,Instrument-like
+URL,URL in text
+NAM,In-text name only
+NOT,Not even name mentioned
++ver,with version information in reference
++cver,with version information in citation
++pid,with PID in reference
++cre,with credit information in reference
++per,with link to persistent archive in reference
++acc,with link to source code in reference
++cacc,with link to source code in citation
++oacc,with link to source code in other place (e.g., footnote)

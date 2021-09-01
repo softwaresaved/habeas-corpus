@@ -9,8 +9,8 @@ NOT,Not even name mentioned
 +ver,with version information in reference
 +cver,with version information in citation
 +pid,with PID in reference
-+cre,with credit information in reference
++cre,with information in reference that allows for personal credit
 +per,with link to persistent archive in reference
 +acc,with link to source code in reference
 +cacc,with link to source code in citation
-+oacc,with link to source code in other place (e.g., footnote)
++oacc,with link to source code in other place (footnotes etc.)

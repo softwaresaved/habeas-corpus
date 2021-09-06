@@ -4,3 +4,4 @@ matplotlib
 pandas
 RISE
 wordcloud
+seaborn

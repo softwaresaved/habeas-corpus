@@ -18,7 +18,7 @@ https://doi.org/10.1371/journal.pone.0253549 (not in CSM dataset) ""we have inco
 6,Ensembl genome browser,SO,Apache,NAM,10.1186/1471-2180-9-164,
 6,Ensembl genome browser,SO,Apache,"PUB, URL",10.1016/j.dib.2020.106082,
 6,Ensembl genome browser,SO,Apache,NAM,10.1371/journal.pone.0008266,
-6,Ensembl genome browser,SO,Apache,URL,10.1093/nar/gkaa942,
+6,Ensembl genome browser,SO,Apache,NAM,10.1093/nar/gkaa942,
 6,Ensembl genome browser,SO,Apache,PUB,10.1534/genetics.116.198838,
 7,Empower R,SC,Closed,"INS, URL",10.3389/fped.2020.566371,http://www.empowerstats.com/
 7,Empower R,SC,Closed,"INS, URL",10.1111/aos.14472,http://www.empowerstats.com/
@@ -41,17 +41,17 @@ the IEEE international conference on computer vision; 2017. p.
 21,QuickLook,SC,Unknown,NAM,10.1117/12.2560719,QuickLook is an ALMA specific tool described here: https://www.eso.org/sci/libraries/SPIE2016/9910-56.pdf
 23,TekStack,SC,Unknown (SaaS),PRO,https://arxiv.org/pdf/2009.07399v1.pdf,https://covid-research.tekstackhealth.com/
 24,PSR,ST,Unknown,NAM,10.1007/s11036-020-01679-0,"Probably should be PSR-ELM. Described in paper, but no repo"
-25,Nano Analyzer,SC,Closed,NAM,10.1038/s41598-020-79357-0,Probably commercial software coming with https://www.tainstruments.com/dma-850/
+25,Nano Analyzer,SC,Closed,INS,10.1038/s41598-020-79357-0,Probably commercial software coming with https://www.tainstruments.com/dma-850/
 26,TmHMM,SC,Academic,NAM,10.1038/s41598-020-63696-z,Free download but no github: https://services.healthtech.dtu.dk/software.php
 27,NoEMi,SC,Unknown,NAM,https://arxiv.org/pdf/2101.11673v2.pdf,The NoEMi (Noise Frequency Event Miner) framework. Described in 10.1088/1742-6596/363/1/012037
-29,Kontaminant,SO,GPL,PRO,10.1371/journal.pone.0129059,
+29,Kontaminant,SO,GPL,"PRO, URL",10.1371/journal.pone.0129059,
 30,SQID,SO,Apache,URL,https://arxiv.org/pdf/2006.00088v1.pdf,
-31,Quantile plot,SO,GPL,PRO,10.3390/ani10101928,https://github.com/rwoldford/qqtest
+31,Quantile plot,SO,GPL,"PRO, URL",10.3390/ani10101928,https://github.com/rwoldford/qqtest
 32,Grommet,SO,Apache,NAM,https://arxiv.org/pdf/2010.13387v1.pdf,
 33,Trailblazer,SC,Unknown (SaaS),URL,10.1007/978-3-030-51831-8_2,Probably this web app by CRUK: https://www.cancerresearchuk.org/get-involved/citizen-science/the-projects?_gl=1*1epv0cu*_ga*MTYwODIzMTI5My4xNjE3Mjc0MTE3*_ga_58736Z2GNN*MTYxNzI3NDExNi4xLjEuMTYxNzI3NDEyMi41NA..#collapsecitizenscience4
 34,TFmodisco,SO,MIT,PUB,10.1186/s12864-020-07291-6,
 35,"R package "" KernSmooth """,SO,Unlimited,PUB,10.1007/s42965-020-00114-5,Unclear license - probably closest to MIT
-36,ProtoArray Prospector,SC,Closed,NAM,10.3390/ijms11125165,Commercial: https://www.thermofisher.com/uk/en/home/life-science/protein-biology/protein-assays-analysis/protein-microarrays/technical-resources/data-analysis.html
+36,ProtoArray Prospector,SC,Closed,INS,10.3390/ijms11125165,Commercial: https://www.thermofisher.com/uk/en/home/life-science/protein-biology/protein-assays-analysis/protein-microarrays/technical-resources/data-analysis.html
 37,EPI Tools,SF,Unknown,"PUB, URL",10.1101/2020.10.13.337287,"Summarization of several tools: EPI Info (https://www.cdc.gov/epiinfo/index.html), and other EPI Tools"
 38,crawler4j,SO,Apache,URL,10.1007/978-3-030-45439-5_52,
 40,MathI,ST,MIT,PUB,10.1038/s41598-020-80605-6,Mislabelled - should be MathIOmica
@@ -61,11 +61,11 @@ the IEEE international conference on computer vision; 2017. p.
 50,PhoX,SO,Unknown,NAM,10.1007/978-3-030-51054-1_31,Software website is https://raffalli.eu/phox/. Not actually used- listed as an example of something Emacs supports
 51,bs4,SO,MIT,NAM,10.1016/j.scitotenv.2021.145158,copied here: https://github.com/getanewsletter/BeautifulSoup4
 53,MeVis Pulmo3D,SC,Academic,INS,10.1007/s13244-011-0077-4,https://www.mevis.fraunhofer.de/en/solutionpages/lung-image-analysis.html
-56,ENSEMBL browser,SO,Apache,INS,10.1128/jvi.01443-13,https://www.ensembl.org/index.html
+56,ENSEMBL browser,SO,Apache,NAM,10.1128/jvi.01443-13,https://www.ensembl.org/index.html
 57,Curio SmartChat,SC,Unknown,PUB,10.1007/978-3-030-52237-7_49,"NLP Software, no code available: https://paperswithcode.com/paper/curio-smartchat-a-system-for-natural-language"
 59,MedidataRave,SC,Closed,NAM,10.1016/j.jsat.2020.108100,commercial https://ecog-acrin.org/resources/medidata-rave
 62,Unity Engine,SC,Closed,NAM,10.3390/s20215989,Commercial software https://unity.com/
-64,GSP5,ST,Academic,"INS, URL",10.3390/ijms22010024,Typo - should be GPS5: http://gps.biocuckoo.cn/index.php
+64,GSP5,ST,Academic,PUB,10.3390/ijms22010024,Typo - should be GPS5: http://gps.biocuckoo.cn/index.php
 65,polycor R package,SO,GPL,INS,10.1101/2020.05.18.20105288,
 68,Cytargetlinker,SF,LGPL,NAM,10.1111/resp.12939_15,Duplicate: Part of Cytoscape package
 69,io API,ST,Unknown (SaaS),PUB,https://arxiv.org/pdf/2006.06142v1.pdf,"Actually: genderizer.io API, removed from CRAN"

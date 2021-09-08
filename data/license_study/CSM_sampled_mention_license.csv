@@ -46,7 +46,7 @@ the IEEE international conference on computer vision; 2017. p.
 27,NoEMi,SC,Unknown,NAM,https://arxiv.org/pdf/2101.11673v2.pdf,The NoEMi (Noise Frequency Event Miner) framework. Described in 10.1088/1742-6596/363/1/012037
 29,Kontaminant,SO,GPL,"PRO, URL",10.1371/journal.pone.0129059,
 30,SQID,SO,Apache,URL,https://arxiv.org/pdf/2006.00088v1.pdf,
-31,Quantile plot,SO,GPL,"PRO, URL",10.3390/ani10101928,https://github.com/rwoldford/qqtest
+31,Quantile plot,SO,GPL,PRO,10.3390/ani10101928,https://github.com/rwoldford/qqtest
 32,Grommet,SO,Apache,NAM,https://arxiv.org/pdf/2010.13387v1.pdf,
 33,Trailblazer,SC,Unknown (SaaS),PRO,10.1007/978-3-030-51831-8_2,Probably this web app by CRUK: https://www.cancerresearchuk.org/get-involved/citizen-science/the-projects?_gl=1*1epv0cu*_ga*MTYwODIzMTI5My4xNjE3Mjc0MTE3*_ga_58736Z2GNN*MTYxNzI3NDExNi4xLjEuMTYxNzI3NDEyMi41NA..#collapsecitizenscience4
 34,TFmodisco,SO,MIT,PUB,10.1186/s12864-020-07291-6,

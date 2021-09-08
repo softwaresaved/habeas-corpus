@@ -46,16 +46,16 @@ the IEEE international conference on computer vision; 2017. p.
 27,NoEMi,SC,Unknown,NAM,https://arxiv.org/pdf/2101.11673v2.pdf,The NoEMi (Noise Frequency Event Miner) framework. Described in 10.1088/1742-6596/363/1/012037
 29,Kontaminant,SO,GPL,"PRO, URL",10.1371/journal.pone.0129059,
 30,SQID,SO,Apache,URL,https://arxiv.org/pdf/2006.00088v1.pdf,
-31,Quantile plot,SO,GPL,"PRO, URL",10.3390/ani10101928,https://github.com/rwoldford/qqtest
+31,Quantile plot,SO,GPL,PRO,10.3390/ani10101928,https://github.com/rwoldford/qqtest
 32,Grommet,SO,Apache,NAM,https://arxiv.org/pdf/2010.13387v1.pdf,
-33,Trailblazer,SC,Unknown (SaaS),URL,10.1007/978-3-030-51831-8_2,Probably this web app by CRUK: https://www.cancerresearchuk.org/get-involved/citizen-science/the-projects?_gl=1*1epv0cu*_ga*MTYwODIzMTI5My4xNjE3Mjc0MTE3*_ga_58736Z2GNN*MTYxNzI3NDExNi4xLjEuMTYxNzI3NDEyMi41NA..#collapsecitizenscience4
+33,Trailblazer,SC,Unknown (SaaS),PRO,10.1007/978-3-030-51831-8_2,Probably this web app by CRUK: https://www.cancerresearchuk.org/get-involved/citizen-science/the-projects?_gl=1*1epv0cu*_ga*MTYwODIzMTI5My4xNjE3Mjc0MTE3*_ga_58736Z2GNN*MTYxNzI3NDExNi4xLjEuMTYxNzI3NDEyMi41NA..#collapsecitizenscience4
 34,TFmodisco,SO,MIT,PUB,10.1186/s12864-020-07291-6,
 35,"R package "" KernSmooth """,SO,Unlimited,PUB,10.1007/s42965-020-00114-5,Unclear license - probably closest to MIT
 36,ProtoArray Prospector,SC,Closed,INS,10.3390/ijms11125165,Commercial: https://www.thermofisher.com/uk/en/home/life-science/protein-biology/protein-assays-analysis/protein-microarrays/technical-resources/data-analysis.html
-37,EPI Tools,SF,Unknown,"PUB, URL",10.1101/2020.10.13.337287,"Summarization of several tools: EPI Info (https://www.cdc.gov/epiinfo/index.html), and other EPI Tools"
+37,EPI Tools,SF,Unknown,"PRO, URL",10.1101/2020.10.13.337287,"Summarization of several tools: EPI Info (https://www.cdc.gov/epiinfo/index.html), and other EPI Tools"
 38,crawler4j,SO,Apache,URL,10.1007/978-3-030-45439-5_52,
 40,MathI,ST,MIT,PUB,10.1038/s41598-020-80605-6,Mislabelled - should be MathIOmica
-44,lmer R package,SO,GPL,PUB,10.1186/s41235-020-00252-3,Probably should be lme4 package (which contains lmer) but might be lmerTest https://github.com/runehaubo/lmerTestR
+44,lmer R package,SO,GPL,NAM,10.1186/s41235-020-00252-3,Probably should be lme4 package (which contains lmer) but might be lmerTest https://github.com/runehaubo/lmerTestR
 45,netCTLpan1,ST,Unknown (SaaS),NAM,10.1101/2020.06.03.131755,Actually netCTLpan1.1 (http://www.cbs.dtu.dk/services/NetCTLpan/ )
 48,xPONENT3,SC,Closed,NAM,10.1007/s00705-019-04226-9,Actually xPONENT3.01 in paper: refers to this commercial software: https://www.luminexcorp.com/eu/xponent/
 50,PhoX,SO,Unknown,NAM,10.1007/978-3-030-51054-1_31,Software website is https://raffalli.eu/phox/. Not actually used- listed as an example of something Emacs supports

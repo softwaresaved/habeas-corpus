@@ -1,0 +1,8 @@
+﻿Code,Description
+SO,Software where a link to a code repository can be found
+SC,Software but no link to a code repository can be found
+ST,Typo but the mention is to software
+SF,Specific function / subroutine in a larger software package or library with a different name
+NA,Not software but correctly spelt
+NT,Not software but incorrectly spelt
+UN,Other classification - unknown / needs further investigation

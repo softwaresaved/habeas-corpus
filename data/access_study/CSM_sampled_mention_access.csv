@@ -11,7 +11,7 @@
 9,2,Access,SC,INS,N,N,,,10.1186/1471-2431-10-51,Commercial software: https://www.microsoft.com/en-gb/microsoft-365/access
 10,4a,Spectra,ST,INS,N,N,,,10.1111/j.1365-2893.2007.00948.x,Refers to Spectra Calc ® from Galactic Industries
 11,4a,Spectra,ST,INS,N,N,,,10.1021/jp504911r,Refers to Spectra Calc ® from Galactic Industries
-12,4b,Spectra,ST,NAM,VER,N,,,10.1007/s00520-006-0041-x,Refers to PMN program in Cobe Spectra software version 4.7
+12,4b,Spectra,ST,NAM,CVER,N,,,10.1007/s00520-006-0041-x,Refers to PMN program in Cobe Spectra software version 4.7
 13,5a,JAM,SO,PUB,CRE,N,"Publication cites JAM1.0 as 'JAM1.0, source code and its documentation, to be prepared.'",,10.1093/ptep/ptaa148,"In this case, JAM is ""Jet AA Microscopic Transport Model"" a hadronic cascade model. No code repository found "
 14,5b,JAM,SO,PUB,CRE,I,"Access via GitHub link in cited publication, then look for repository https://github.com/Ensembl/ensembl-genome-browser",https://github.com/pjnewcombe/R2BGLiMS,10.1101/2020.12.11.20209627,"This is a preprint of  
 https://doi.org/10.1371/journal.pone.0253549 (not in CSM dataset) ""we have incorporated the JAM algorithm into our existing fully documented R package for Bayesian model selection"" Newcombe PJ, Conti DV, Richardson S. Jam: a scalable bayesian frame-670work for joint analysis of marginal snp effects. Genetic epidemiology2016;40(3):188Äì201."

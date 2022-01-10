@@ -1,101 +1,101 @@
-,software
- R,8389
- SPSS,4738
-SPSS,4472
- BLAST,3166
- Excel,2666
- GraphPad Prism,2544
-R,2416
- GraphPad,2089
- SAS,1706
- MEGA,1587
- Google Scholar,1506
- ImageJ,1457
-SAS,1445
-GraphPad Prism,1442
- Scopus,1430
- Net,1423
- Python,1234
- GISAID,1226
- Stata,1208
-Excel,1190
- MATLAB,1175
-Stata,1093
- Google Trends,1039
- BEAST,839
- Cytoscape,814
- REDCap,794
- MAFFT,788
- ClustalW,780
- Prism,748
- XGBoost,743
- STATA,707
- BERT,677
-STATA,669
-SPSS Statistics,668
- Matlab,668
- FlowJo,657
-Google Scholar,655
- Ensembl,649
- GROMACS,641
- GSEA,637
- PyMOL,622
- Geneious,618
- AutoDock Vina,613
- iOS,574
- TASSER,569
- Skype,567
- SPSS Statistics,548
- AutoDock,541
- Linux,517
- MUSCLE,510
-BLAST,508
- Seurat,505
- MODEL,490
- SWISS,478
- BLASTn,468
-ImageJ,459
- BioEdit,449
- SPARQL,448
- UCSF Chimera,445
-MATLAB,444
- Windows,443
- geNorm,425
- DESeq2,424
-Prism,423
- ggplot2,421
- Qualtrics,419
- Chimera,414
- NET,410
- Clustal Omega,393
- learn,391
- MOE,389
-Scopus,385
- CHARMM,382
- OpenMP,380
- Reddit,379
- DAVID,378
- SafeGraph,376
- PRISMA,376
- STRING,371
- LASSO,363
- GitHub,360
- BLASTx,354
-MEGA,346
- Bowtie2,344
- ML,343
- Auto,342
- ProMED,340
- ArcGIS,339
- Rosetta,337
- VMD,337
- Image J,336
- HADDOCK,331
- AMBER,330
- Coot,327
- NVivo,326
- STAR,323
- SHERLOCK,323
- RoBERTa,323
- BLASTN,322
- RAxML,321
+"software",count
+"R",8389
+"SPSS",4738
+"SPSS",4472
+"BLAST",3166
+"Excel",2666
+"GraphPad Prism",2544
+"R",2416
+"GraphPad",2089
+"SAS",1706
+"MEGA",1587
+"Google Scholar",1506
+"ImageJ",1457
+"SAS",1445
+"GraphPad Prism",1442
+"Scopus",1430
+"Net",1423
+"Python",1234
+"GISAID",1226
+"Stata",1208
+"Excel",1190
+"MATLAB",1175
+"Stata",1093
+"Google Trends",1039
+"BEAST",839
+"Cytoscape",814
+"REDCap",794
+"MAFFT",788
+"ClustalW",780
+"Prism",748
+"XGBoost",743
+"STATA",707
+"BERT",677
+"STATA",669
+"SPSS Statistics",668
+"Matlab",668
+"FlowJo",657
+"Google Scholar",655
+"Ensembl",649
+"GROMACS",641
+"GSEA",637
+"PyMOL",622
+"Geneious",618
+"AutoDock Vina",613
+"iOS",574
+"TASSER",569
+"Skype",567
+"SPSS Statistics",548
+"AutoDock",541
+"Linux",517
+"MUSCLE",510
+"BLAST",508
+"Seurat",505
+"MODEL",490
+"SWISS",478
+"BLASTn",468
+"ImageJ",459
+"BioEdit",449
+"SPARQL",448
+"UCSF Chimera",445
+"MATLAB",444
+"Windows",443
+"geNorm",425
+"DESeq2",424
+"Prism",423
+"ggplot2",421
+"Qualtrics",419
+"Chimera",414
+"NET",410
+"Clustal Omega",393
+"learn",391
+"MOE",389
+"Scopus",385
+"CHARMM",382
+"OpenMP",380
+"Reddit",379
+"DAVID",378
+"SafeGraph",376
+"PRISMA",376
+"STRING",371
+"LASSO",363
+"GitHub",360
+"BLASTx",354
+"MEGA",346
+"Bowtie2",344
+"ML",343
+"Auto",342
+"ProMED",340
+"ArcGIS",339
+"Rosetta",337
+"VMD",337
+"Image J",336
+"HADDOCK",331
+"AMBER",330
+"Coot",327
+"NVivo",326
+"STAR",323
+"SHERLOCK",323
+"RoBERTa",323
+"BLASTN",322
+"RAxML",321

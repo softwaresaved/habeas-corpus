@@ -1,0 +1,1001 @@
+,software,count,rand_url
+0,Snap,16,"['https://www.ncbi.nlm.nih.gov/pubmed/33094432/', 'https://doi.org/10.1007/s00259-020-05075-4']"
+1,DICOM SandBox,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3948175/']
+2,ggpack,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7589861/']
+3,pmcmr,1,"['https://api.elsevier.com/content/article/pii/S0921344920304158', 'https://doi.org/10.1016/j.resconrec.2020.105098', 'https://www.ncbi.nlm.nih.gov/pubmed/32834491/', 'https://www.sciencedirect.com/science/article/pii/S0921344920304158?v=s5']"
+4,piStar,2,['https://arxiv.org/pdf/2009.04327v2.pdf']
+5,DiscoTope2,4,"['https://www.ncbi.nlm.nih.gov/pubmed/32621841/', 'https://api.elsevier.com/content/article/pii/S0168170220303889', 'https://www.sciencedirect.com/science/article/pii/S0168170220303889?v=s5', 'https://doi.org/10.1016/j.virusres.2020.198082']"
+6,Pharmanet,1,['https://doi.org/10.1101/2020.10.21.348441']
+7,GICA,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33081702/', 'https://doi.org/10.1186/s12879-020-05489-3']"
+8,Social,6,['http://medrxiv.org/cgi/content/short/2020.09.05.20188847v1?rss=1']
+9,PCNV,8,"['https://www.ncbi.nlm.nih.gov/pubmed/32485813/', 'https://doi.org/10.3390/ijms21113859']"
+10,Genetica,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6201879/']
+11,ARTLIAS,1,"['https://api.elsevier.com/content/article/pii/S004938482030503X', 'https://doi.org/10.1016/j.thromres.2020.08.045', 'https://www.sciencedirect.com/science/article/pii/S004938482030503X?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/32906012/']"
+12,dLinto,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7439732/']
+13,PIQMEE,5,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530608/']
+14,HySys,1,"['https://api.elsevier.com/content/article/pii/S0038092X20308793', 'https://www.sciencedirect.com/science/article/pii/S0038092X20308793', 'https://doi.org/10.1016/j.solener.2020.08.041', 'https://www.ncbi.nlm.nih.gov/pubmed/32863443/']"
+15,OpenWhisk Python runtime,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510803/']
+16,Folder Automation,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5536730/']
+17,Epidemic Calculator,8,['https://arxiv.org/pdf/2005.03323v1.pdf']
+18,iGLAS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7608435/']
+19,Instant Recess,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7552680/']
+20,GIT,6,['https://arxiv.org/pdf/2003.12454v1.pdf']
+21,AutoVue Innova,10,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7169336/']
+22,Arogya Setu App,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381859/']
+23,DNAStar package,1,"['https://doi.org/10.1371/journal.pntd.0003569', 'https://www.ncbi.nlm.nih.gov/pubmed/25811659/']"
+24,SBE,1,"['https://doi.org/10.1136/medethics-2020-106793', 'https://www.ncbi.nlm.nih.gov/pubmed/32900846/']"
+25,AskNowQA,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250603/']
+26,MIMIC,8,['https://doi.org/10.1101/2020.04.07.20056788']
+27,BFHI,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32926659/', 'https://doi.org/10.1177/0890334420959292']"
+28,MedAdvisor PlusOne,5,['http://medrxiv.org/cgi/content/short/2020.12.14.20248212v1?rss=1']
+29,Horus,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095534/']
+30,OF,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795809/']
+31,NoDupsNonFunc,2,"['https://doi.org/10.1101/2020.08.03.234005', 'https://www.ncbi.nlm.nih.gov/pubmed/32793907/']"
+32,GNU,17,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7363187/']
+33,SoapAligner,1,"['https://www.ncbi.nlm.nih.gov/pubmed/30359242/', 'https://doi.org/10.1186/s12864-018-5152-5']"
+34,Google search volume,1,"['https://doi.org/10.1186/s12873-020-00395-y', 'https://www.ncbi.nlm.nih.gov/pubmed/33461485/']"
+35,PASMICOR,2,"['https://doi.org/10.1016/j.psychres.2020.113252', 'https://api.elsevier.com/content/article/pii/S0165178120316000', 'https://www.ncbi.nlm.nih.gov/pubmed/32623263/', 'https://www.sciencedirect.com/science/article/pii/S0165178120316000']"
+36,LiveHoods,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7399565/']
+37,Tele,5,"['https://www.ncbi.nlm.nih.gov/pubmed/33478497/', 'https://doi.org/10.1186/s12913-021-06080-5']"
+38,Ribosomal Multilocus Sequence Typing (rMLST),1,['https://doi.org/10.1101/2020.12.01.406348']
+39,Verigene Ò,2,"['https://api.elsevier.com/content/article/pii/B9780128029718000055', 'https://www.sciencedirect.com/science/article/pii/B9780128029718000055']"
+40,AIROYoung,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815285/']
+41,IncuCyte imager,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33140051/', 'https://doi.org/10.1101/2020.10.29.361048']"
+42,Well,11,"['https://www.ncbi.nlm.nih.gov/pubmed/32413319/', 'https://api.elsevier.com/content/article/pii/S0092867420305006', 'https://www.sciencedirect.com/science/article/pii/S0092867420305006', 'https://doi.org/10.1016/j.cell.2020.04.035']"
+43,json,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32839733/', 'https://doi.org/10.1016/j.dib.2020.106175', 'https://www.sciencedirect.com/science/article/pii/S2352340920310696?v=s5', 'https://api.elsevier.com/content/article/pii/S2352340920310696']"
+44,RuSentRel,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7298196/']
+45,pooledHyp,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32581260/', 'https://doi.org/10.1038/s41598-020-66280-7']"
+46,iCircDA,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7354774/']
+47,PWMEnrich,1,"['https://doi.org/10.1016/j.ygeno.2020.12.041', 'https://www.ncbi.nlm.nih.gov/pubmed/33482326/', 'https://www.sciencedirect.com/science/article/pii/S0888754321000252?v=s5', 'https://api.elsevier.com/content/article/pii/S0888754321000252']"
+48,spRTEM,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103177/']
+49,ASCOD,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543675/']
+50,- dump,2,"['https://doi.org/10.7717/peerj.10246', 'https://www.ncbi.nlm.nih.gov/pubmed/33194423/']"
+51,PsychThApprO,11,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7360497/']
+52,CoPIC,1,['https://doi.org/10.1101/2020.12.26.424422']
+53,Cellprofiler,4,"['https://doi.org/10.1016/j.celrep.2020.108166', 'https://www.ncbi.nlm.nih.gov/pubmed/32966794/', 'https://www.sciencedirect.com/science/article/pii/S2211124720311554', 'https://api.elsevier.com/content/article/pii/S2211124720311554']"
+54,GaussianFinder,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32708196/', 'https://doi.org/10.3390/ijms21145152']"
+55,- Tractor,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397426/']
+56,Meke Meter,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7443393/']
+57,Treeio,1,"['https://doi.org/10.1111/2041-210x.13422', 'https://www.ncbi.nlm.nih.gov/pubmed/32983401/']"
+58,Typeform,1,"['https://doi.org/10.1002/bjs.11726', 'https://www.ncbi.nlm.nih.gov/pubmed/32463518/']"
+59,DelPhiPKa,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32962355/', 'https://doi.org/10.1063/5.0020458']"
+60,Marktest,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293961/']
+61,Energy Quest,1,"['https://api.elsevier.com/content/article/pii/S0306261920312290', 'https://www.ncbi.nlm.nih.gov/pubmed/32904736/', 'https://doi.org/10.1016/j.apenergy.2020.115739', 'https://www.sciencedirect.com/science/article/pii/S0306261920312290?v=s5']"
+62,BAND,1,['https://doi.org/10.1101/2020.10.08.330696']
+63,Google Chart API,2,"['https://www.ncbi.nlm.nih.gov/pubmed/24359669/', 'https://doi.org/10.1186/2049-9957-2-31']"
+64,PHASER (,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33431856/', 'https://doi.org/10.1038/s41467-020-20501-9']"
+65,TeKGraph,1,['https://arxiv.org/pdf/2010.11367v2.pdf']
+66,RT 2 Profiles Array Data Analysis,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7164006/']
+67,Fast Microsatellite Discoverer (FMSD),1,"['https://doi.org/10.1016/j.imu.2020.100356', 'https://api.elsevier.com/content/article/pii/S2352914820302562', 'https://www.ncbi.nlm.nih.gov/pubmed/32501423/', 'https://www.sciencedirect.com/science/article/pii/S2352914820302562?v=s5']"
+68,PyFS,5,"['https://doi.org/10.3390/ijerph17103407', 'https://www.ncbi.nlm.nih.gov/pubmed/32414172/']"
+69,Jext,3,"['https://www.ncbi.nlm.nih.gov/pubmed/33311677/', 'https://doi.org/10.1038/s41415-020-2454-1']"
+70,rvtest,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33298875/', 'https://doi.org/10.1038/s41421-020-00231-4']"
+71,SIMUL8,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7169842/']
+72,SRLF,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7117819/']
+73,VGAS (Viral Genome Annotation System),1,"['https://doi.org/10.1186/s12862-020-01732-2', 'https://www.ncbi.nlm.nih.gov/pubmed/33514319/']"
+74,featureCounts Galaxy,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32374427/', 'https://doi.org/10.1002/jmv.25981']"
+75,Protein Digestion Server,1,"['https://www.ncbi.nlm.nih.gov/pubmed/31075428/', 'https://www.sciencedirect.com/science/article/pii/S0882401018306053', 'https://api.elsevier.com/content/article/pii/S0882401018306053', 'https://doi.org/10.1016/j.micpath.2019.05.010']"
+76,FIFI,1,['https://arxiv.org/pdf/2101.01812v1.pdf']
+77,geoserver,1,['https://www.ncbi.nlm.nih.gov/pubmed/14748927/']
+78,Matlab Psychophysics Toolbox,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33389675/', 'https://doi.org/10.3758/s13414-020-02187-9']"
+79,Netica,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6023245/']
+80,Images Sorter,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251932/']
+81,Hadoop File System,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256368/']
+82,PregSure,1,"['https://www.ncbi.nlm.nih.gov/pubmed/24312485/', 'https://doi.org/10.1371/journal.pone.0080619']"
+83,1000 Functional Connectomes Project scripts,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7080092/']
+84,Docker Compose 4,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7254549/']
+85,Serco,2,"['https://doi.org/10.1016/j.telpol.2020.102024', 'https://www.ncbi.nlm.nih.gov/pubmed/32834405/', 'https://api.elsevier.com/content/article/pii/S0308596120301166', 'https://www.sciencedirect.com/science/article/pii/S0308596120301166']"
+86,Crisis,2,"['https://doi.org/10.1007/s40688-020-00341-6', 'https://www.ncbi.nlm.nih.gov/pubmed/33425481/']"
+87,LOVIT,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33121019/', 'https://doi.org/10.3390/nu12113286']"
+88,LifeSize,1,"['https://doi.org/10.1007/s13187-020-01945-5', 'https://www.ncbi.nlm.nih.gov/pubmed/33442862/']"
+89,CTL Biospot analyzer,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7012455/']
+90,MoCap,2,['https://arxiv.org/pdf/2101.08166v1.pdf']
+91,iToL,5,['https://doi.org/10.1101/2020.09.09.289892']
+92,Meet,7,"['https://www.ncbi.nlm.nih.gov/pubmed/32618915/', 'https://doi.org/10.2106/jbjs.20.00568']"
+93,InnovationACT,3,"['https://www.sciencedirect.com/science/article/pii/S0019850119300288', 'https://api.elsevier.com/content/article/pii/S0019850119300288']"
+94,Circos,1,"['https://doi.org/10.1371/journal.pone.0243270', 'https://www.ncbi.nlm.nih.gov/pubmed/33301474/']"
+95,Pathao,1,"['https://www.sciencedirect.com/science/article/pii/S0965856420305784', 'https://api.elsevier.com/content/article/pii/S0965856420305784', 'https://www.ncbi.nlm.nih.gov/pubmed/32508400/', 'https://doi.org/10.1016/j.tra.2020.05.002']"
+96,MassARRAY,2,"['https://doi.org/10.3390/diagnostics11010053', 'https://www.ncbi.nlm.nih.gov/pubmed/33401392/']"
+97,GCNConv,2,['https://arxiv.org/pdf/2006.09835v1.pdf']
+98,RDP3 Beta,1,"['https://doi.org/10.1186/1743-422x-5-123', 'https://www.ncbi.nlm.nih.gov/pubmed/18937850/']"
+99,R0,18,['https://arxiv.org/pdf/2004.01714v1.pdf']
+100,YFPEITHI,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7036183/']
+101,ISUOG,1,"['https://doi.org/10.3390/jcm9051521', 'https://www.ncbi.nlm.nih.gov/pubmed/32443538/']"
+102,SISE,1,"['https://doi.org/10.1111/irv.12411', 'https://www.ncbi.nlm.nih.gov/pubmed/27417916/']"
+103,LabOn Time,1,"['https://api.elsevier.com/content/article/pii/S1386653220301554', 'https://www.ncbi.nlm.nih.gov/pubmed/32403010/', 'https://www.sciencedirect.com/science/article/pii/S1386653220301554?v=s5', 'https://doi.org/10.1016/j.jcv.2020.104413']"
+104,MircoED,1,"['https://api.elsevier.com/content/article/pii/S0959440X20300890', 'https://www.ncbi.nlm.nih.gov/pubmed/32610218/', 'https://www.sciencedirect.com/science/article/pii/S0959440X20300890', 'https://doi.org/10.1016/j.sbi.2020.05.018']"
+105,EUROLab Workstation,1,"['https://www.sciencedirect.com/science/article/pii/S0009898120304344?v=s5', 'https://doi.org/10.1016/j.cca.2020.09.002', 'https://www.ncbi.nlm.nih.gov/pubmed/32910980/', 'https://api.elsevier.com/content/article/pii/S0009898120304344']"
+106,MWorks,1,['https://doi.org/10.1101/2020.08.11.246355']
+107,Invisalign,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7698787/']
+108,HAVING,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250599/']
+109,GGPlot2,3,"['https://doi.org/10.1101/2020.07.06.182972', 'https://www.ncbi.nlm.nih.gov/pubmed/32676594/']"
+110,CORTICUS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7143852/']
+111,RealStats Resource Pack,1,"['https://doi.org/10.1093/biolre/ioaa082', 'https://www.ncbi.nlm.nih.gov/pubmed/32588889/']"
+112,NetworKit,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735677/']
+113,MCCE (Multi Conformer Continuum Electrostatic),1,"['https://www.ncbi.nlm.nih.gov/pubmed/32478523/', 'https://doi.org/10.1021/acs.jpclett.0c01064']"
+114,MESH,1,"['https://api.elsevier.com/content/article/pii/S1546144021000326', 'https://www.sciencedirect.com/science/article/pii/S1546144021000326?v=s5']"
+115,AKITA,2,"['https://www.sciencedirect.com/science/article/pii/B9780128206584000042', 'https://api.elsevier.com/content/article/pii/B9780128206584000042']"
+116,Sehha App,1,"['https://doi.org/10.7759/cureus.12004', 'https://www.ncbi.nlm.nih.gov/pubmed/33457115/']"
+117,CCV,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313891/']
+118,MyOSA,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7587071/']
+119,ICPis,1,"['https://doi.org/10.1136/jitc-2020-001754', 'https://www.ncbi.nlm.nih.gov/pubmed/33310772/']"
+120,KAWA,3,"['https://www.sciencedirect.com/science/article/pii/S1695403318303084', 'https://api.elsevier.com/content/article/pii/S1695403318303084']"
+121,Probiosafe,1,"['https://www.sciencedirect.com/science/article/pii/S0168160510001698', 'https://www.ncbi.nlm.nih.gov/pubmed/20444515/', 'https://doi.org/10.1016/j.ijfoodmicro.2010.03.026', 'https://api.elsevier.com/content/article/pii/S0168160510001698']"
+122,Viral genome Evolution Network Analysis System (VENAS),1,['https://doi.org/10.1101/2020.12.09.417121']
+123,Moodfit,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33301395/', 'https://doi.org/10.1016/j.jopan.2020.10.005', 'https://www.sciencedirect.com/science/article/pii/S108994722030321X', 'https://api.elsevier.com/content/article/pii/S108994722030321X']"
+124,COMVC19,1,"['https://doi.org/10.6061/clinics/2020/e1963', 'https://www.ncbi.nlm.nih.gov/pubmed/32520224/']"
+125,Yasara,1,"['https://doi.org/10.1101/2020.07.01.182964', 'https://www.ncbi.nlm.nih.gov/pubmed/32637961/']"
+126,GtrendsR,1,['https://arxiv.org/pdf/2005.06796v1.pdf']
+127,R package APE,1,"['https://doi.org/10.1099/vir.0.000209', 'https://www.ncbi.nlm.nih.gov/pubmed/26041874/']"
+128,AiCure,1,"['https://www.sciencedirect.com/science/article/pii/S1359644620304256?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/33099022/', 'https://api.elsevier.com/content/article/pii/S1359644620304256', 'https://doi.org/10.1016/j.drudis.2020.10.010']"
+129,RemyCC,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302268/']
+130,MolDx,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7267794/']
+131,ClonFor,1,"['https://www.ncbi.nlm.nih.gov/pubmed/25681753/', 'https://doi.org/10.1016/j.mcp.2015.02.001', 'https://api.elsevier.com/content/article/pii/S089085081500016X', 'https://www.sciencedirect.com/science/article/pii/S089085081500016X']"
+132,pLingeling,19,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197060/']
+133,CAQE,6,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7363222/']
+134,Motel One,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7736673/']
+135,Sketch Engine COVID -Sinequa COVID - 19 Intelligent Search Search Search,1,['https://arxiv.org/pdf/2007.12731v1.pdf']
+136,COVIDnet,6,"['https://www.sciencedirect.com/science/article/pii/S1110016821000144?v=s5', 'https://api.elsevier.com/content/article/pii/S1110016821000144']"
+137,scDeepCluster,1,"['https://api.elsevier.com/content/article/pii/S1359644620304153', 'https://www.ncbi.nlm.nih.gov/pubmed/33059075/', 'https://www.sciencedirect.com/science/article/pii/S1359644620304153', 'https://doi.org/10.1016/j.drudis.2020.10.002']"
+138,Cedars100,1,"['http://medrxiv.org/cgi/content/short/2020.04.19.20070995v1?rss=1', 'https://www.ncbi.nlm.nih.gov/pubmed/32511625/', 'https://doi.org/10.1101/2020.04.19.20070995']"
+139,Cipro,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7120073/']
+140,SLIC,1,"['https://doi.org/10.1128/jvi.02261-13', 'https://www.ncbi.nlm.nih.gov/pubmed/24049164/']"
+141,TACTIC,14,"['https://doi.org/10.1186/s13063-020-04535-4', 'https://www.ncbi.nlm.nih.gov/pubmed/32641154/']"
+142,KINETIC,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2290050/']
+143,Sina Microblog,22,['https://arxiv.org/pdf/2005.02955v1.pdf']
+144,COordinar,1,"['https://api.elsevier.com/content/article/pii/S0213485320300736', 'https://www.sciencedirect.com/science/article/pii/S0213485320300736?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/32364127/', 'https://doi.org/10.1016/j.nrl.2020.04.008']"
+145,ArcToolbox,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32592974/', 'https://doi.org/10.1016/j.scitotenv.2020.140396', 'https://api.elsevier.com/content/article/pii/S0048969720339188', 'https://www.sciencedirect.com/science/article/pii/S0048969720339188?v=s5']"
+146,GRAMMAS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167033/']
+147,QNN,2,['https://arxiv.org/pdf/2011.07145v1.pdf']
+148,SLiMDisc,1,"['https://www.ncbi.nlm.nih.gov/pubmed/31427097/', 'https://api.elsevier.com/content/article/pii/S0167779919301738', 'https://www.sciencedirect.com/science/article/pii/S0167779919301738', 'https://doi.org/10.1016/j.tibtech.2019.07.004']"
+149,AUTO3DEMSPARX,1,"['https://api.elsevier.com/content/article/pii/B978012374920800120X', 'https://www.sciencedirect.com/science/article/pii/B978012374920800120X']"
+150,ABI StepOne TM,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912203/']
+151,UPSIT,5,"['https://www.ncbi.nlm.nih.gov/pubmed/32496658/', 'https://doi.org/10.1002/alr.22638']"
+152,COV19,6,"['https://www.ncbi.nlm.nih.gov/pubmed/33425046/', 'https://doi.org/10.1007/s12559-020-09795-5']"
+153,Globalizaje,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7680976/']
+154,PPFS (Predict Phenotypes from SNPs),1,"['https://www.sciencedirect.com/science/article/pii/S0924857917303424', 'https://api.elsevier.com/content/article/pii/S0924857917303424']"
+155,SpotBugs,2,['https://arxiv.org/pdf/2011.14392v1.pdf']
+156,EMETS MCDA,2,['https://arxiv.org/pdf/2101.10220v1.pdf']
+157,Jaima,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6860145/']
+158,Friendfeed,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332224/']
+159,GAFINet,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6087987/']
+160,ECIL,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7091862/']
+161,FastQC,215,['https://doi.org/10.1101/2020.05.11.088724']
+162,CoMiFin,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7120818/']
+163,Ingenuity Pathways,2,"['https://doi.org/10.1074/mcp.m110.001859', 'https://www.ncbi.nlm.nih.gov/pubmed/20647383/']"
+164,C6,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33243994/', 'https://doi.org/10.1038/s41467-020-19808-4']"
+165,Feynrules,1,['https://arxiv.org/pdf/2009.11870v1.pdf']
+166,IMTEK,1,"['https://www.sciencedirect.com/science/article/pii/S0167931718304556', 'https://api.elsevier.com/content/article/pii/S0167931718304556', 'https://www.ncbi.nlm.nih.gov/pubmed/32287568/', 'https://doi.org/10.1016/j.mee.2018.10.001']"
+167,SeqUtils,2,['https://doi.org/10.1101/2020.02.15.951012']
+168,FISCUS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7119941/']
+169,SP Glide,1,"['https://api.elsevier.com/content/article/pii/S0045206820316552', 'https://www.ncbi.nlm.nih.gov/pubmed/33091673/', 'https://doi.org/10.1016/j.bioorg.2020.104357', 'https://www.sciencedirect.com/science/article/pii/S0045206820316552?v=s5']"
+170,BindUP,1,"['https://doi.org/10.1128/jvi.00990-17', 'https://www.ncbi.nlm.nih.gov/pubmed/29021398/']"
+171,MDAGRF,1,"['https://www.sciencedirect.com/science/article/pii/S0045790620306200', 'https://www.ncbi.nlm.nih.gov/pubmed/32834174/', 'https://doi.org/10.1016/j.compeleceng.2020.106765', 'https://api.elsevier.com/content/article/pii/S0045790620306200']"
+172,FluMist,7,"['https://doi.org/10.1016/j.vaccine.2015.07.101', 'https://www.sciencedirect.com/science/article/pii/S0264410X15011056', 'https://api.elsevier.com/content/article/pii/S0264410X15011056', 'https://www.ncbi.nlm.nih.gov/pubmed/26271831/']"
+173,Community Assessment for Public Health Emergency Response Geographic Information System Toolbox,1,"['https://doi.org/10.15585/mmwr.mm6929e2', 'https://www.ncbi.nlm.nih.gov/pubmed/32701941/']"
+174,SSDA,1,"['https://doi.org/10.3390/s20216041', 'https://www.ncbi.nlm.nih.gov/pubmed/33114189/']"
+175,ArcPad,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7121355/']
+176,ECDC,2,['https://arxiv.org/pdf/2007.02202v1.pdf']
+177,and,1,"['https://doi.org/10.1101/2020.07.29.20164343', 'http://medrxiv.org/cgi/content/short/2020.07.29.20164343v1?rss=1']"
+178,JOTPY,29,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7736710/']
+179,ASM,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480685/']
+180,WatchOS App,1,"['https://doi.org/10.3390/s20247313', 'https://www.ncbi.nlm.nih.gov/pubmed/33352717/']"
+181,CONSIP,1,"['https://doi.org/10.1007/s12553-020-00467-w', 'https://www.ncbi.nlm.nih.gov/pubmed/32837809/']"
+182,COMPARE COllaborative Management Platform for detection,1,"['https://doi.org/10.3390/genes10090655', 'https://www.ncbi.nlm.nih.gov/pubmed/31466373/']"
+183,Cubed,50,"['https://api.elsevier.com/content/article/pii/B9780444595683000158', 'https://www.sciencedirect.com/science/article/pii/B9780444595683000158']"
+184,nScope,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7654342/']
+185,dpll,5,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334981/']
+186,BrainyQuote,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7322500/']
+187,TopHat2,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195505/']
+188,REML,8,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786328/']
+189,Seurat Find,1,['https://doi.org/10.1101/2020.06.05.137380']
+190,BRB Array Tools,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7237229/']
+191,iPathwayGuide,14,"['https://doi.org/10.1016/j.immuni.2015.11.003', 'https://www.ncbi.nlm.nih.gov/pubmed/26682989/', 'http://www.cell.com/article/S1074761315004550/pdf', 'https://api.elsevier.com/content/article/pii/S1074761315004550', 'https://www.sciencedirect.com/science/article/pii/S1074761315004550']"
+192,OpenMeta,1,"['https://doi.org/10.1016/j.pedneo.2020.10.001', 'https://www.ncbi.nlm.nih.gov/pubmed/33334687/', 'https://www.sciencedirect.com/science/article/pii/S1875957220301649?v=s5', 'https://api.elsevier.com/content/article/pii/S1875957220301649']"
+193,Math Kernel Library (MKL),1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302405/']
+194,Tools,12,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7398618/']
+195,DeepHLApan,11,['https://doi.org/10.1101/2020.05.24.096164']
+196,markovchain,1,"['https://doi.org/10.1038/s41370-020-0249-8', 'https://www.ncbi.nlm.nih.gov/pubmed/32669669/']"
+197,ROSES,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7268584/']
+198,Cochrane Risk of Bias tool,1,['http://medrxiv.org/cgi/content/short/2020.05.15.20103044v1?rss=1']
+199,ACMG,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7609296/']
+200,Glomax Explorer,1,"['https://doi.org/10.1038/s41467-020-19891-7', 'https://www.ncbi.nlm.nih.gov/pubmed/33257679/']"
+201,ESEE (Eyeball Sequence Editor),1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7194170/']
+202,Bychain,12,['https://arxiv.org/pdf/2007.00894v1.pdf']
+203,GoogleClasroom,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32657469/', 'https://doi.org/10.1111/jpm.12672']"
+204,Excelpackage,2,"['https://doi.org/10.3390/ijerph17217709', 'https://www.ncbi.nlm.nih.gov/pubmed/33105601/']"
+205,Hipre,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32837823/', 'https://doi.org/10.1007/s10669-020-09784-x']"
+206,IMET,1,"['https://doi.org/10.3390/jcm9072038', 'https://www.ncbi.nlm.nih.gov/pubmed/32610587/']"
+207,NASA,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7753275/']
+208,SAMN,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206156/']
+209,FECO,1,"['https://api.elsevier.com/content/article/pii/S187802961600102X', 'https://doi.org/10.1016/j.proenv.2016.02.101', 'https://www.sciencedirect.com/science/article/pii/S187802961600102X', 'https://www.ncbi.nlm.nih.gov/pubmed/32288929/']"
+210,Illumina basecalling pipeline,1,"['https://doi.org/10.1371/journal.pone.0013381', 'https://www.ncbi.nlm.nih.gov/pubmed/20976137/']"
+211,Quest,37,"['https://api.elsevier.com/content/article/pii/S0264410X07009255', 'https://www.ncbi.nlm.nih.gov/pubmed/17913311/', 'https://www.sciencedirect.com/science/article/pii/S0264410X07009255']"
+212,NASPER,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7123391/']
+213,FLARE Analysis Cycle (,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32834186/', 'https://www.sciencedirect.com/science/article/pii/S0094576520304598?v=s5', 'https://api.elsevier.com/content/article/pii/S0094576520304598', 'https://doi.org/10.1016/j.actaastro.2020.07.032']"
+214,Vivex,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480431/']
+215,eSKA,4,"['https://www.ncbi.nlm.nih.gov/pubmed/32889640/', 'https://doi.org/10.1007/s00701-020-04544-x']"
+216,CIDARS,2,"['https://api.elsevier.com/content/article/pii/B9780128123430000072', 'https://www.sciencedirect.com/science/article/pii/B9780128123430000072']"
+217,MIMARKS,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32883210/', 'https://doi.org/10.1186/s12859-020-03694-0']"
+218,Moerover,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302816/']
+219,DALY,5,"['http://medrxiv.org/cgi/content/short/2021.01.25.21250489v1?rss=1', 'https://doi.org/10.1101/2021.01.25.21250489']"
+220,KAMI,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7134288/']
+221,PrimalSeq,10,"['https://doi.org/10.1371/journal.pone.0239403', 'https://www.ncbi.nlm.nih.gov/pubmed/32946527/']"
+222,Insight II Spartan Pro,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7168531/']
+223,id,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3333284/']
+224,Surge,2,"['https://www.ncbi.nlm.nih.gov/pubmed/18217556/', 'https://doi.org/10.3201/eid1311.070103']"
+225,SGDM,6,"['https://www.ncbi.nlm.nih.gov/pubmed/33013005/', 'https://www.sciencedirect.com/science/article/pii/S0957417420308198?v=s5', 'https://doi.org/10.1016/j.eswa.2020.114054', 'https://api.elsevier.com/content/article/pii/S0957417420308198']"
+226,RCPath,5,"['https://www.sciencedirect.com/science/article/pii/S1756231720302358', 'https://api.elsevier.com/content/article/pii/S1756231720302358', 'https://www.ncbi.nlm.nih.gov/pubmed/33391394/', 'https://doi.org/10.1016/j.mpdhp.2020.12.003']"
+227,IsoData,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7297573/']
+228,Watch,16,"['https://www.sciencedirect.com/science/article/pii/S0169260719303785', 'https://www.ncbi.nlm.nih.gov/pubmed/32114416/', 'https://api.elsevier.com/content/article/pii/S0169260719303785', 'https://doi.org/10.1016/j.cmpb.2020.105415']"
+229,COEN,7,['https://doi.org/10.1101/2021.01.24.428029']
+230,PIO,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7354800/']
+231,CANTATA,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6982300/']
+232,POATRAND,1,"['https://doi.org/10.1038/s41440-020-00591-0', 'https://www.ncbi.nlm.nih.gov/pubmed/33361825/']"
+233,ODYSSEE,1,"['https://www.sciencedirect.com/science/article/pii/S1040619020301123', 'https://api.elsevier.com/content/article/pii/S1040619020301123']"
+234,ImPACT,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3533624/']
+235,Clap for SGUnited,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32704516/', 'https://doi.org/10.1093/ofid/ofaa256']"
+236,SIRT,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302278/']
+237,RobertaTokenizer,1,['https://arxiv.org/pdf/2008.09035v1.pdf']
+238,Emscripten,2,['https://arxiv.org/pdf/2011.09350v1.pdf']
+239,Quadratic Phenotypic Optimization Platform [ QPOP ],1,"['https://www.ncbi.nlm.nih.gov/pubmed/32838299/', 'https://doi.org/10.1002/aisy.202000070']"
+240,Open Science Grid,1,['https://doi.org/10.1101/2020.04.14.041962']
+241,Rhetorik,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7120378/']
+242,Ceditest,1,"['https://www.sciencedirect.com/science/article/pii/S0169409X00000776', 'https://api.elsevier.com/content/article/pii/S0169409X00000776', 'https://www.ncbi.nlm.nih.gov/pubmed/10967221/']"
+243,R package WRS2,1,"['https://www.ncbi.nlm.nih.gov/pubmed/31423969/', 'https://doi.org/10.3201/eid2510.190497']"
+244,2S,5,['https://arxiv.org/pdf/2102.01053v1.pdf']
+245,KnowItAll® Informatics system,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2716912/']
+246,Questionnaire Star Tool,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32396265/', 'https://doi.org/10.1111/iwj.13391']"
+247,CATalyst Studios,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33424478/', 'https://doi.org/10.5195/jmla.2021.1169']"
+248,AMC,5,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340982/']
+249,Inception Net V3,1,"['https://doi.org/10.1007/s13246-020-00888-x', 'https://www.ncbi.nlm.nih.gov/pubmed/32588200/']"
+250,scTHS,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32883878/', 'https://doi.org/10.1073/pnas.2012358117']"
+251,CpHMD,19,"['https://www.ncbi.nlm.nih.gov/pubmed/32935106/', 'https://doi.org/10.1101/2020.09.07.286344']"
+252,Internet Archive Wayback Machine,1,"['https://doi.org/10.1101/2020.03.24.20043067', 'http://medrxiv.org/cgi/content/short/2020.03.24.20043067v1?rss=1']"
+253,NCEPOD,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4069511/']
+254,OriginLab,23,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3274521/']
+255,BlastiMer,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7049754/']
+256,Gene Pix Pro,1,"['https://www.ncbi.nlm.nih.gov/pubmed/16765554/', 'https://api.elsevier.com/content/article/pii/S0732889306001672', 'https://www.sciencedirect.com/science/article/pii/S0732889306001672']"
+257,robKalman,4,['https://arxiv.org/pdf/1004.3393v1.pdf']
+258,BIAcore T100,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7392643/']
+259,evolutiondevelopment,1,"['https://doi.org/10.1111/j.1749-6632.2011.06138.x', 'https://www.ncbi.nlm.nih.gov/pubmed/21824162/']"
+260,DAVID Pathway,1,"['https://doi.org/10.1371/journal.pone.0131459', 'https://www.ncbi.nlm.nih.gov/pubmed/26121276/']"
+261,INEXAS,1,"['https://doi.org/10.1016/j.bcp.2020.114046', 'https://www.ncbi.nlm.nih.gov/pubmed/32446884/', 'https://api.elsevier.com/content/article/pii/S000629522030280X', 'https://www.sciencedirect.com/science/article/pii/S000629522030280X?v=s5']"
+262,PRiSMA,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213073/']
+263,ESOPRS,1,"['https://doi.org/10.1097/iop.0000000000001776', 'https://www.ncbi.nlm.nih.gov/pubmed/32658132/']"
+264,Wikidata Property - Suggester,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250627/']
+265,DxCare Ò,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32984786/', 'https://api.elsevier.com/content/article/pii/S2589537020302984', 'https://www.sciencedirect.com/science/article/pii/S2589537020302984', 'https://doi.org/10.1016/j.eclinm.2020.100554']"
+266,SISMOWINE,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7304051/']
+267,multiflow,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206241/']
+268,LibreView,17,"['https://doi.org/10.1007/s13300-020-00829-7', 'https://www.ncbi.nlm.nih.gov/pubmed/32395187/']"
+269,GolayMetaMiner,12,"['https://doi.org/10.3390/ijms21072574', 'https://www.ncbi.nlm.nih.gov/pubmed/32276333/']"
+270,FEMTruncatedPowerLaw,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7304769/']
+271,vURTI,1,"['https://doi.org/10.1086/649559', 'https://www.ncbi.nlm.nih.gov/pubmed/20001857/', 'https://academic.oup.com/jid/article-pdf/201/2/199/18059941/201-2-199.pdf']"
+272,FociCounter,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7542528/']
+273,Hike Messenger,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206153/']
+274,Google Custom Search API,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334667/']
+275,TautLYP,1,"['https://doi.org/10.1007/s00214-020-02656-2', 'https://www.ncbi.nlm.nih.gov/pubmed/32834770/']"
+276,cluspro,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32206049/', 'https://doi.org/10.1007/s10989-019-09951-y']"
+277,ALLE,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7124063/']
+278,Euler assembler,1,"['https://www.ncbi.nlm.nih.gov/pubmed/22591859/', 'https://doi.org/10.1186/1756-0500-5-243']"
+279,NIH Quality Assessment Tool,1,"['https://doi.org/10.1007/s00330-020-06975-7', 'https://www.ncbi.nlm.nih.gov/pubmed/32474632/']"
+280,Kakao Chat Application,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7712145/']
+281,LARDRDP3,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422720/']
+282,AND,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812135/']
+283,Labomed,1,"['https://www.sciencedirect.com/science/article/pii/S2214750017300999', 'https://doi.org/10.1016/j.toxrep.2017.11.006', 'https://www.ncbi.nlm.nih.gov/pubmed/29270363/', 'https://api.elsevier.com/content/article/pii/S2214750017300999']"
+284,QWACs,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7596833/']
+285,MUSCLE Multiple Sequence Alignment,1,"['https://doi.org/10.1007/s11262-018-1614-8', 'https://www.ncbi.nlm.nih.gov/pubmed/30426315/']"
+286,mGenTHREADER,4,"['https://www.ncbi.nlm.nih.gov/pubmed/18459168/', 'https://doi.org/10.1002/med.20124']"
+287,PrusaSlicr,1,"['https://www.sciencedirect.com/science/article/pii/S2468067220300444?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/32904317/', 'https://doi.org/10.1016/j.ohx.2020.e00135', 'https://api.elsevier.com/content/article/pii/S2468067220300444']"
+288,car,27,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6950991/']
+289,Orbi,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465882/']
+290,Google Voice,5,"['https://www.sciencedirect.com/science/article/pii/S1091853120301555?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/32758701/', 'https://api.elsevier.com/content/article/pii/S1091853120301555', 'https://doi.org/10.1016/j.jaapos.2020.06.004']"
+291,AFFINITY,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7168529/']
+292,FlowJo,262,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7642578/']
+293,Genmod,1,"['https://doi.org/10.4178/epih.e2016048', 'https://www.ncbi.nlm.nih.gov/pubmed/28196409/']"
+294,Android Bluetooth LE scanner,2,"['https://arxiv.org/pdf/2006.08543v1.pdf', 'https://www.ncbi.nlm.nih.gov/pubmed/32997724/', 'https://doi.org/10.1371/journal.pone.0239943']"
+295,InfAct,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33514433/', 'https://doi.org/10.1186/s13690-021-00531-5']"
+296,PERMAONVA,1,"['https://doi.org/10.3389/fmicb.2020.569630', 'https://www.ncbi.nlm.nih.gov/pubmed/33363519/']"
+297,Spinach2,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6650947/']
+298,Fast,32,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313891/']
+299,filterList,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7767093/']
+300,AutoDock Tools1,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32948116/', 'https://doi.org/10.1080/07391102.2020.1819883']"
+301,- p,1,"['https://www.ncbi.nlm.nih.gov/pubmed/29223446/', 'https://doi.org/10.1016/j.virol.2017.11.025', 'https://api.elsevier.com/content/article/pii/S004268221730404X', 'https://www.sciencedirect.com/science/article/pii/S004268221730404X']"
+302,NText,1,['https://arxiv.org/pdf/2009.03191v1.pdf']
+303,UTAUT,102,"['https://doi.org/10.1016/j.ijhm.2020.102683', 'https://www.ncbi.nlm.nih.gov/pubmed/32929294/', 'https://api.elsevier.com/content/article/pii/S0278431920302358', 'https://www.sciencedirect.com/science/article/pii/S0278431920302358?v=s5']"
+304,El,2,['https://arxiv.org/pdf/2012.02885v1.pdf']
+305,R package ggseqlogo,1,['https://doi.org/10.1101/2020.11.09.374280']
+306,Proteome Discoverer1,1,['https://doi.org/10.1101/212308']
+307,Gaode Map,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33266364/', 'https://doi.org/10.3390/ijerph17228663']"
+308,ThunderSTORM,3,['https://doi.org/10.1101/2021.01.05.425371']
+309,Nucleotide Basic Local Alignment Search Tools (BLASTN),1,['https://doi.org/10.1101/2020.12.02.408229']
+310,NeuroIRIS,1,"['https://www.sciencedirect.com/science/article/pii/S0733861908000364', 'https://doi.org/10.1016/j.ncl.2008.03.009', 'https://www.ncbi.nlm.nih.gov/pubmed/18657725/', 'https://api.elsevier.com/content/article/pii/S0733861908000364']"
+311,ctlpred,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7223762/']
+312,BiOnt,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148040/']
+313,pdr,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7439740/']
+314,Time Search,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7486125/']
+315,AVA,7,"['https://doi.org/10.1016/j.buildenv.2017.11.041', 'https://api.elsevier.com/content/article/pii/S0360132317305541', 'https://www.sciencedirect.com/science/article/pii/S0360132317305541', 'https://www.ncbi.nlm.nih.gov/pubmed/32287978/']"
+316,LIFD,1,"['https://doi.org/10.1007/s40670-020-01179-6', 'https://www.ncbi.nlm.nih.gov/pubmed/33495719/']"
+317,Chem3D Pro,3,"['https://api.elsevier.com/content/article/pii/S1319562X20306008', 'https://www.ncbi.nlm.nih.gov/pubmed/33199969/', 'https://doi.org/10.1016/j.sjbs.2020.11.038', 'https://www.sciencedirect.com/science/article/pii/S1319562X20306008?v=s5']"
+318,QRISK,1,"['https://doi.org/10.1101/2020.06.28.20141986', 'http://medrxiv.org/cgi/content/short/2020.06.28.20141986v1?rss=1']"
+319,DISCoVER,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33354689/', 'https://doi.org/10.1101/2020.12.14.20247874', 'http://medrxiv.org/cgi/content/short/2020.12.14.20247874v1?rss=1']"
+320,Conacyt,1,"['https://doi.org/10.1101/2021.01.27.21250642', 'http://medrxiv.org/cgi/content/short/2021.01.27.21250642v1?rss=1']"
+321,lnetThe,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7363220/']
+322,Seqed,1,"['https://api.elsevier.com/content/article/pii/016817029290135V', 'https://www.sciencedirect.com/science/article/pii/016817029290135V', 'https://www.ncbi.nlm.nih.gov/pubmed/1332275/']"
+323,CRADLE,15,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538188/']
+324,NTI,1,"['https://doi.org/10.1016/j.vetmic.2009.01.031', 'https://api.elsevier.com/content/article/pii/S0378113509000522', 'https://www.sciencedirect.com/science/article/pii/S0378113509000522', 'https://www.ncbi.nlm.nih.gov/pubmed/19232845/']"
+325,QCapture,1,"['https://www.sciencedirect.com/science/article/pii/S0042682208002067', 'https://api.elsevier.com/content/article/pii/S0042682208002067', 'http://europepmc.org/articles/pmc2574746?pdf=render', 'https://www.ncbi.nlm.nih.gov/pubmed/18456301/', 'https://doi.org/10.1016/j.virol.2008.03.034']"
+326,Adobe Acrobat Reader,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2741407/']
+327,SeqOPT,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7164006/']
+328,Agile Manifesto,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335232/']
+329,GSEApy,2,['https://arxiv.org/pdf/2006.03735v1.pdf']
+330,Ennov Clinical®,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33371905/', 'https://doi.org/10.1186/s13063-020-04928-5']"
+331,Dietmate Pro,1,"['https://doi.org/10.3390/nu12071977', 'https://www.ncbi.nlm.nih.gov/pubmed/32635174/']"
+332,PANEL,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7087606/']
+333,EchoPAC,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7166920/']
+334,You Only Look Once (YOLO,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32834685/', 'https://api.elsevier.com/content/article/pii/S0968090X20306422', 'https://doi.org/10.1016/j.trc.2020.102727', 'https://www.sciencedirect.com/science/article/pii/S0968090X20306422']"
+335,MODELLER8v1,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163982/']
+336,- 19 Research Tools,1,"['https://doi.org/10.1093/sleep/zsaa258', 'https://www.ncbi.nlm.nih.gov/pubmed/33249492/']"
+337,LGBM,1,['https://arxiv.org/pdf/2008.12833v1.pdf']
+338,scRepertoire,2,['https://doi.org/10.1101/2020.08.24.264069']
+339,3DNA,5,"['https://febs.onlinelibrary.wiley.com/doi/pdfdirect/10.1016/j.febslet.2011.03.002', 'https://www.sciencedirect.com/science/article/pii/S0014579311001529', 'https://api.elsevier.com/content/article/pii/S0014579311001529', 'https://doi.org/10.1016/j.febslet.2011.03.002', 'https://www.ncbi.nlm.nih.gov/pubmed/21382373/']"
+340,VisionPro Learning,1,['https://arxiv.org/pdf/2010.00958v2.pdf']
+341,ZoraBots,1,"['https://doi.org/10.1093/bib/bbaa361', 'https://www.ncbi.nlm.nih.gov/pubmed/33326994/']"
+342,MedBERT,2,['https://arxiv.org/pdf/2010.07497v1.pdf']
+343,Puduppully,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148215/']
+344,CoLA,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148240/']
+345,VGI,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7121788/']
+346,TwoVS,20,"['https://api.elsevier.com/content/article/pii/S0378720615000087', 'https://www.sciencedirect.com/science/article/pii/S0378720615000087']"
+347,Triage,1,['https://arxiv.org/pdf/2010.09905v1.pdf']
+348,ICNP®,1,"['https://api.elsevier.com/content/article/pii/S0029655408001589', 'https://www.sciencedirect.com/science/article/pii/S0029655408001589', 'https://doi.org/10.1016/j.outlook.2008.06.009', 'https://www.ncbi.nlm.nih.gov/pubmed/18922277/']"
+349,BeeTrace,18,['https://arxiv.org/pdf/2007.02285v1.pdf']
+350,SciVi scientific,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7304727/']
+351,Clustal W2,6,"['https://doi.org/10.1007/s00705-010-0850-6', 'https://www.ncbi.nlm.nih.gov/pubmed/21049275/']"
+352,RCRA,1,['https://arxiv.org/pdf/2012.02592v2.pdf']
+353,statistical package for the social sciences (SPSS,1,"['https://doi.org/10.1186/s12985-016-0488-4', 'https://www.ncbi.nlm.nih.gov/pubmed/26916286/']"
+354,ECFS,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7668741/']
+355,FoMO,17,"['https://www.sciencedirect.com/science/article/pii/S0736585320301179?v=s5', 'https://api.elsevier.com/content/article/pii/S0736585320301179']"
+356,PubMLST,2,['https://doi.org/10.1101/2020.12.01.406348']
+357,FPocket,16,"['https://www.ncbi.nlm.nih.gov/pubmed/32708196/', 'https://doi.org/10.3390/ijms21145152']"
+358,Ontological,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250613/']
+359,EEMD,2,"['https://www.sciencedirect.com/science/article/pii/S2542660520300615?v=s5', 'https://api.elsevier.com/content/article/pii/S2542660520300615']"
+360,EPUAP,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6462022/']
+361,Pandemic Influenza Severity Assessment tool,2,"['https://www.ncbi.nlm.nih.gov/pubmed/31547606/', 'https://doi.org/10.3390/tropicalmed4040121']"
+362,RS Modification and Motif Analysis,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7188828/']
+363,phylog,2,"['https://doi.org/10.1038/s41598-019-40452-6', 'https://www.ncbi.nlm.nih.gov/pubmed/30842590/']"
+364,3DSEARCH,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7168536/']
+365,FUNCAT,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7100641/']
+366,CovSegNethybrid,1,['https://arxiv.org/pdf/2012.01473v1.pdf']
+367,CENTER,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7057641/']
+368,Atmel Studio,1,"['https://arxiv.org/pdf/1902.09379v1.pdf', 'https://www.ncbi.nlm.nih.gov/pubmed/29877824/', 'https://doi.org/10.1109/tbcas.2018.2812222']"
+369,SHEET,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33219227/', 'https://doi.org/10.1038/s41597-020-00749-y']"
+370,RegSMOImproved,1,"['https://www.ncbi.nlm.nih.gov/pubmed/27490990/', 'https://doi.org/10.1111/cbdd.12834']"
+371,COVID Knowledge Extractor (COKE),1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7709174/']
+372,FlowJo®,2,"['https://api.elsevier.com/content/article/pii/S0377840118315700', 'https://www.sciencedirect.com/science/article/pii/S0377840118315700', 'https://www.ncbi.nlm.nih.gov/pubmed/32288071/', 'https://doi.org/10.1016/j.anifeedsci.2020.114392']"
+373,Promide,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7120660/']
+374,Topol,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33442575/', 'https://doi.org/10.1159/000512681']"
+375,ChemoStar Professional,4,"['https://www.ncbi.nlm.nih.gov/pubmed/31618932/', 'https://doi.org/10.3390/pathogens8040192']"
+376,PhylloZyme,1,"['https://doi.org/10.1111/pbi.13468', 'https://www.ncbi.nlm.nih.gov/pubmed/32799416/']"
+377,InMotion,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6462035/']
+378,Temephos,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4962925/']
+379,catRAPID express,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7458403/']
+380,SEPAS,1,"['https://doi.org/10.1021/acs.jproteome.0c00348', 'https://www.ncbi.nlm.nih.gov/pubmed/32786692/']"
+381,LernRisk,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7123823/']
+382,Graviton,3,['https://arxiv.org/pdf/2010.13216v1.pdf']
+383,Buxco FinePointe,1,"['https://api.elsevier.com/content/article/pii/S0092867420301707', 'https://www.sciencedirect.com/science/article/pii/S0092867420301707', 'https://doi.org/10.1016/j.cell.2020.02.026', 'https://www.ncbi.nlm.nih.gov/pubmed/32142653/']"
+384,DPOdactic,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314701/']
+385,google engine,1,"['https://api.elsevier.com/content/article/pii/S0048969720323755', 'https://www.sciencedirect.com/science/article/pii/S0048969720323755', 'https://www.ncbi.nlm.nih.gov/pubmed/32336562/', 'https://doi.org/10.1016/j.scitotenv.2020.138858']"
+386,SwissPDBViewer),1,"['https://www.sciencedirect.com/science/article/pii/S0168170210001231', 'https://api.elsevier.com/content/article/pii/S0168170210001231', 'https://doi.org/10.1016/j.virusres.2010.03.020', 'https://www.ncbi.nlm.nih.gov/pubmed/20398710/']"
+387,AGM,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250608/']
+388,CLH,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32993152/', 'https://doi.org/10.3390/foods9101369']"
+389,Euk,13,"['https://www.ncbi.nlm.nih.gov/pubmed/28890846/', 'https://doi.org/10.7717/peerj.3561']"
+390,DIVAs,3,"['https://doi.org/10.1007/s11042-020-09050-x', 'https://www.ncbi.nlm.nih.gov/pubmed/32837246/']"
+391,ivD platform,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975254/']
+392,Mass spec,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7122056/']
+393,predisi,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7223900/']
+394,NAOqi,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7527154/']
+395,Fluidigm Digital Array TM,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3526318/']
+396,CLC Genomics Workbench (CLC Bio,1,"['https://www.ncbi.nlm.nih.gov/pubmed/30101189/', 'https://doi.org/10.1126/sciadv.aas9667']"
+397,Calcusyn®,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104471/']
+398,ABI Inform,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32921856/', 'https://api.elsevier.com/content/article/pii/S0169207020301151', 'https://doi.org/10.1016/j.ijforecast.2020.08.001', 'https://www.sciencedirect.com/science/article/pii/S0169207020301151']"
+399,Allergen Online,1,"['https://doi.org/10.1371/journal.pone.0237181', 'https://www.ncbi.nlm.nih.gov/pubmed/32813697/']"
+400,Cyclone,6,"['https://www.ncbi.nlm.nih.gov/pubmed/32977540/', 'https://doi.org/10.3390/s20195457']"
+401,XAMPP,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537262/']
+402,GenSript,1,['https://doi.org/10.1101/2020.03.31.014639']
+403,ADSS,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088195/']
+404,MutantW,1,"['https://doi.org/10.1038/srep20918', 'https://www.ncbi.nlm.nih.gov/pubmed/26879383/']"
+405,Cytometry List Mode Acquisition,1,"['https://www.ncbi.nlm.nih.gov/pubmed/25131332/', 'https://doi.org/10.1111/cmi.12339']"
+406,Reveal LINQ,1,"['https://doi.org/10.1038/s41569-020-00445-9', 'https://www.ncbi.nlm.nih.gov/pubmed/33037325/']"
+407,QM,1,['https://arxiv.org/pdf/2101.01780v1.pdf']
+408,Flow Jo,14,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6687752/']
+409,DROPimage Matrix,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33134706/', 'https://doi.org/10.1021/acsomega.0c03917']"
+410,Arelequin,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7094720/']
+411,WebQuests,25,"['https://doi.org/10.1016/j.ijer.2020.101652', 'https://www.sciencedirect.com/science/article/pii/S0883035520317584', 'https://api.elsevier.com/content/article/pii/S0883035520317584', 'https://www.ncbi.nlm.nih.gov/pubmed/32901172/']"
+412,cur,2,['https://arxiv.org/pdf/2007.04553v1.pdf']
+413,SIRemp,5,"['https://doi.org/10.1002/pra2.252', 'https://www.ncbi.nlm.nih.gov/pubmed/33173813/']"
+414,CONQUEST,29,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7298177/']
+415,Review Manager,114,"['https://doi.org/10.1097/md.0000000000023377', 'https://www.ncbi.nlm.nih.gov/pubmed/33235111/']"
+416,Postman,2,['https://arxiv.org/pdf/2012.06502v1.pdf']
+417,23andMe,2,"['https://doi.org/10.1038/s41598-020-80605-6', 'https://www.ncbi.nlm.nih.gov/pubmed/33436912/']"
+418,kuenm,2,['https://doi.org/10.1101/2020.08.11.246991']
+419,computeReachtube,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7439743/']
+420,CERQual,18,"['https://doi.org/10.1101/2020.09.24.20201293', 'http://medrxiv.org/cgi/content/short/2020.09.24.20201293v1?rss=1']"
+421,Isogrid,16,"['https://api.elsevier.com/content/article/pii/S2351978920315511', 'https://www.sciencedirect.com/science/article/pii/S2351978920315511']"
+422,Curate Exposures,1,"['https://www.biorxiv.org/content/biorxiv/early/2020/08/06/2020.08.06.234674.full.pdf', 'https://www.ncbi.nlm.nih.gov/pubmed/32793901/', 'https://doi.org/10.1101/2020.08.06.234674']"
+423,PRRTE,2,['https://arxiv.org/pdf/2010.10517v1.pdf']
+424,Mobile Analysis Platform (MAP),1,"['https://www.sciencedirect.com/science/article/pii/S0732889318300701', 'https://api.elsevier.com/content/article/pii/S0732889318300701', 'https://doi.org/10.1016/j.diagmicrobio.2018.02.011', 'https://www.ncbi.nlm.nih.gov/pubmed/29550057/']"
+425,Schibsted Life,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33302463/', 'https://doi.org/10.3390/ijerph17249164']"
+426,Amplidiag® Analyzer,1,"['http://medrxiv.org/cgi/content/short/2020.07.03.20144758v1?rss=1', 'https://doi.org/10.1101/2020.07.03.20144758']"
+427,MBSAP,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7122347/']
+428,LoCost,20,"['https://www.ncbi.nlm.nih.gov/pubmed/32908977/', 'https://doi.org/10.1101/2020.09.04.283077']"
+429,Kinsa Insights,1,['https://arxiv.org/pdf/2007.00756v2.pdf']
+430,APSIM,1,"['https://www.sciencedirect.com/science/article/pii/S0308521X2030809X', 'https://api.elsevier.com/content/article/pii/S0308521X2030809X', 'https://doi.org/10.1016/j.agsy.2020.102948', 'https://www.ncbi.nlm.nih.gov/pubmed/32934435/']"
+431,SaxoTraderGO,1,"['https://api.elsevier.com/content/article/pii/S001671852030230X', 'https://doi.org/10.1016/j.geoforum.2020.09.004', 'https://www.sciencedirect.com/science/article/pii/S001671852030230X', 'https://www.ncbi.nlm.nih.gov/pubmed/32981950/']"
+432,Prometric,2,"['https://doi.org/10.1016/j.jbusres.2020.09.025', 'https://api.elsevier.com/content/article/pii/S0148296320306111', 'https://www.ncbi.nlm.nih.gov/pubmed/33052152/', 'https://www.sciencedirect.com/science/article/pii/S0148296320306111']"
+433,IPEDS,1,"['https://doi.org/10.1007/s11162-020-09615-7', 'https://www.ncbi.nlm.nih.gov/pubmed/33082619/']"
+434,Statistical Package for the Social,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32979249/', 'https://doi.org/10.1111/tbed.13853']"
+435,SpectraWiz spectrometer,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7710726/']
+436,4000 Series Explorer,2,"['https://doi.org/10.1186/1756-8722-2-37', 'https://www.ncbi.nlm.nih.gov/pubmed/19709441/']"
+437,Primus (,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4837377/']
+438,AIA,5,['https://doi.org/10.1101/2020.12.03.410274']
+439,Rcpp,7,"['https://doi.org/10.1186/s12859-018-2330-z', 'https://www.ncbi.nlm.nih.gov/pubmed/30343663/']"
+440,MEDS,1,"['https://doi.org/10.3390/v12111285', 'https://www.ncbi.nlm.nih.gov/pubmed/33182765/']"
+441,Living Image,17,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5087861/']
+442,Priv,1,['https://arxiv.org/pdf/2101.07235v1.pdf']
+443,AckermAnn,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7237802/']
+444,M5STACK,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340922/']
+445,SFIDE,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302819/']
+446,PrimerCompare,1,"['https://doi.org/10.1101/2020.09.29.20204131', 'http://medrxiv.org/cgi/content/short/2020.09.29.20204131v1?rss=1']"
+447,DNAMLK,2,['https://doi.org/10.1101/2020.08.13.249086']
+448,BootScanSiScan in Recombination Detection Program,1,"['https://www.ncbi.nlm.nih.gov/pubmed/30102851/', 'https://doi.org/10.1111/tbed.12991']"
+449,NetPathOntoCancro,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7799312/']
+450,Q3B,5,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7326550/']
+451,FERG,1,"['https://www.sciencedirect.com/science/article/pii/B9780123786128000081', 'https://api.elsevier.com/content/article/pii/B9780123786128000081']"
+452,Condmat,4,"['https://doi.org/10.3390/e22020242', 'https://www.ncbi.nlm.nih.gov/pubmed/33286016/']"
+453,Filemaker Pro,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3400751/']
+454,SLP,1,['https://arxiv.org/pdf/2008.09035v1.pdf']
+455,TopNetTree,1,"['https://api.elsevier.com/content/article/pii/S0022283620304563', 'https://www.ncbi.nlm.nih.gov/pubmed/32710986/', 'https://doi.org/10.1016/j.jmb.2020.07.009', 'https://www.sciencedirect.com/science/article/pii/S0022283620304563?v=s5']"
+456,Cytoscape3,5,"['https://www.ncbi.nlm.nih.gov/pubmed/33381519/', 'https://doi.org/10.3389/fmolb.2020.577285']"
+457,Statistica,83,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103184/']
+458,CBTOPE,16,['https://doi.org/10.1101/2020.11.19.390500']
+459,R pROC package,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33024092/', 'https://doi.org/10.1038/s41467-020-18684-2']"
+460,SNPsplit,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33442682/', 'https://doi.org/10.1101/2021.01.03.425167']"
+461,SHAPEKnots,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32676598/', 'https://doi.org/10.1101/2020.07.10.197079']"
+462,DEDICATED,1,"['https://www.sciencedirect.com/science/article/pii/S0020748920302674?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/33080475/', 'https://doi.org/10.1016/j.ijnurstu.2020.103781', 'https://api.elsevier.com/content/article/pii/S0020748920302674']"
+463,Moliso,1,"['https://api.elsevier.com/content/article/pii/S0968089610006085', 'https://www.sciencedirect.com/science/article/pii/S0968089610006085', 'https://doi.org/10.1016/j.bmc.2010.06.080', 'https://www.ncbi.nlm.nih.gov/pubmed/20634077/']"
+464,LBDI,1,"['https://www.sciencedirect.com/science/article/pii/S004016251200039X', 'https://www.ncbi.nlm.nih.gov/pubmed/32287411/', 'https://doi.org/10.1016/j.techfore.2012.02.002', 'https://api.elsevier.com/content/article/pii/S004016251200039X']"
+465,Dendextend,1,['https://doi.org/10.1101/2020.11.04.358739']
+466,Worldometers,4,"['https://doi.org/10.1007/s11071-020-05863-5', 'https://www.ncbi.nlm.nih.gov/pubmed/32836818/']"
+467,MSAProbs,3,['https://doi.org/10.1101/2020.07.16.207951']
+468,forum,2,['https://arxiv.org/pdf/2010.01150v1.pdf']
+469,UEL,1,"['https://www.sciencedirect.com/science/article/pii/S0010482516300397', 'https://api.elsevier.com/content/article/pii/S0010482516300397', 'https://www.ncbi.nlm.nih.gov/pubmed/27089305/', 'https://doi.org/10.1016/j.compbiomed.2016.02.010']"
+470,Lasergene DNASTAR),1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7268178/']
+471,FAIR,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7279931/']
+472,InfluxData,2,"['https://www.sciencedirect.com/science/article/pii/S2352648320300398?v=s5', 'https://doi.org/10.1016/j.smhl.2020.100147', 'https://api.elsevier.com/content/article/pii/S2352648320300398', 'https://www.ncbi.nlm.nih.gov/pubmed/33251320/']"
+473,OS MasterMap Open Greenspace Layer,1,"['https://doi.org/10.1371/journal.pone.0241102', 'https://www.ncbi.nlm.nih.gov/pubmed/33095838/']"
+474,statistical Package for Social Sciences,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33461877/', 'https://doi.org/10.1016/j.clae.2021.01.005', 'https://api.elsevier.com/content/article/pii/S1367048421000096', 'https://www.sciencedirect.com/science/article/pii/S1367048421000096']"
+475,addreg,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32418559/', 'https://doi.org/10.1017/s0950268820001065']"
+476,MAAM,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32836799/', 'https://doi.org/10.1007/s11002-020-09526-8']"
+477,imputer,1,"['https://doi.org/10.1016/j.matpr.2020.11.117', 'https://www.ncbi.nlm.nih.gov/pubmed/33224735/', 'https://www.sciencedirect.com/science/article/pii/S221478532038723X?v=s5', 'https://api.elsevier.com/content/article/pii/S221478532038723X']"
+478,KNApSAcK,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7798278/']
+479,HyperDocs,159,"['https://www.ncbi.nlm.nih.gov/pubmed/32834414/', 'https://doi.org/10.1016/j.compedu.2020.103979', 'https://api.elsevier.com/content/article/pii/S0360131520301779', 'https://www.sciencedirect.com/science/article/pii/S0360131520301779?v=s5']"
+480,Indri search engine,1,['https://arxiv.org/pdf/2011.12684v2.pdf']
+481,ASE Echo,1,"['https://doi.org/10.1007/s11886-020-01310-4', 'https://www.ncbi.nlm.nih.gov/pubmed/32561996/']"
+482,UIowaS,1,['https://arxiv.org/pdf/2010.06467v1.pdf']
+483,NordiQC,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7550230/']
+484,SPSS for Window,1,"['https://www.sciencedirect.com/science/article/pii/S0266613806000568', 'https://www.ncbi.nlm.nih.gov/pubmed/17055624/', 'https://api.elsevier.com/content/article/pii/S0266613806000568']"
+485,Picture Archiving and Communication Systems (,1,"['https://doi.org/10.1186/s12879-020-05683-3', 'https://www.ncbi.nlm.nih.gov/pubmed/33308183/']"
+486,Arduino Software / Integrated Development Environment (IDE),1,"['https://doi.org/10.1007/s40860-020-00128-9', 'https://www.ncbi.nlm.nih.gov/pubmed/33457191/']"
+487,Fiji ImageJ,10,"['https://doi.org/10.1186/s12951-021-00772-0', 'https://www.ncbi.nlm.nih.gov/pubmed/33468139/']"
+488,MAstV,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5454415/']
+489,AeroVanc,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167879/']
+490,LISFLOOD,8,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206312/']
+491,Smart System of Disease Management (SSDM,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32838309/', 'https://doi.org/10.1016/s2665-9913(20)30227-7', 'https://www.sciencedirect.com/science/article/pii/S2665991320302277', 'https://api.elsevier.com/content/article/pii/S2665991320302277']"
+492,DNSMON,1,"['https://arxiv.org/pdf/2005.06127v2.pdf', 'https://www.sciencedirect.com/science/article/pii/S1389128620311622?v=s5', 'https://api.elsevier.com/content/article/pii/S1389128620311622']"
+493,DTC Bypath,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33322141/', 'https://doi.org/10.3390/s20247140']"
+494,GERDA,6,['https://arxiv.org/pdf/2006.09780v1.pdf']
+495,Walker2d,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206262/']
+496,GENESCAN,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7109834/']
+497,SANA,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088195/']
+498,CAMRT,1,"['https://doi.org/10.1016/j.jmir.2019.07.011', 'https://api.elsevier.com/content/article/pii/S1939865417301157', 'https://www.ncbi.nlm.nih.gov/pubmed/31623975/', 'https://www.sciencedirect.com/science/article/pii/S1939865417301157']"
+499,LDPO,1,"['https://www.sciencedirect.com/science/article/pii/S0933365719302635?v=s5', 'https://api.elsevier.com/content/article/pii/S0933365719302635', 'https://doi.org/10.1016/j.artmed.2020.101878', 'https://www.ncbi.nlm.nih.gov/pubmed/32425358/']"
+500,EADock ESS,1,['https://arxiv.org/pdf/2003.10642v2.pdf']
+501,Linux Lubuntu,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7276260/']
+502,UIT,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7404853/']
+503,GEIC,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7806255/']
+504,EUCAST,16,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374592/']
+505,geneious,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4251355/']
+506,Isolite,1,"['https://www.sciencedirect.com/science/article/pii/S0002817714611454', 'https://api.elsevier.com/content/article/pii/S0002817714611454', 'https://www.ncbi.nlm.nih.gov/pubmed/23115148/']"
+507,BertViz,2,['https://arxiv.org/pdf/2010.02494v1.pdf']
+508,MINT,22,"['https://api.elsevier.com/content/article/pii/S2351978920316024', 'https://www.sciencedirect.com/science/article/pii/S2351978920316024']"
+509,FIGURA,2,"['https://www.sciencedirect.com/science/article/pii/S2605153220300753?v=s5', 'https://api.elsevier.com/content/article/pii/S2605153220300753']"
+510,CIMIT Medical Device Plug - and - Play (MDPnP),1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097478/']
+511,ChexNet,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33275187/', 'https://doi.org/10.1007/s13246-020-00952-6']"
+512,SpaCy,2,['https://arxiv.org/pdf/2101.04617v1.pdf']
+513,MSLT,1,"['https://doi.org/10.1186/s12916-019-1259-z', 'https://www.ncbi.nlm.nih.gov/pubmed/30704529/']"
+514,32,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7119934/']
+515,TensorLy,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32640742/', 'https://doi.org/10.3390/ijerph17134872']"
+516,NADT,1,['https://academic.oup.com/cid/article-pdf/54/suppl_2/S153/20938419/cir1060.pdf']
+517,BlueEHR,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7437110/']
+518,odinger Suite,1,"['https://doi.org/10.1080/07391102.2020.1868335', 'https://www.ncbi.nlm.nih.gov/pubmed/33382023/']"
+519,iSeeRNA,2,"['https://www.ncbi.nlm.nih.gov/pubmed/26697116/', 'https://doi.org/10.1186/s13040-015-0075-z']"
+520,mlinfo,1,"['https://www.ncbi.nlm.nih.gov/pubmed/22295056/', 'https://doi.org/10.1371/journal.pone.0028268']"
+521,NCSI,1,"['https://doi.org/10.1016/j.scib.2020.04.043', 'https://www.ncbi.nlm.nih.gov/pubmed/32373394/', 'https://api.elsevier.com/content/article/pii/S2095927320302814', 'https://www.sciencedirect.com/science/article/pii/S2095927320302814?v=s5']"
+522,- BLAST),2,"['https://doi.org/10.3389/fmicb.2020.577497', 'https://www.ncbi.nlm.nih.gov/pubmed/33365016/']"
+523,Statute Square,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7120968/']
+524,Madhesive,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314705/']
+525,mPloc,4,"['https://www.ncbi.nlm.nih.gov/pubmed/28890846/', 'https://doi.org/10.7717/peerj.3561']"
+526,ComCare,1,"['https://doi.org/10.3205/zma001387', 'https://www.ncbi.nlm.nih.gov/pubmed/33364373/']"
+527,MROAST R package,2,['https://doi.org/10.1101/2020.12.29.424739']
+528,Telco,6,['https://arxiv.org/pdf/2005.04519v2.pdf']
+529,GeneBee,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7089039/']
+530,PSCAN,2,"['https://www.ncbi.nlm.nih.gov/pubmed/25534508/', 'https://doi.org/10.1186/1471-2164-15-1161']"
+531,PALM,20,['https://arxiv.org/pdf/2005.12612v1.pdf']
+532,Comcast,1,['https://arxiv.org/pdf/2012.09850v2.pdf']
+533,CoreWeave,1,"['https://doi.org/10.1101/2020.06.27.175430', 'https://www.ncbi.nlm.nih.gov/pubmed/32637963/']"
+534,DCCNAL,1,['https://arxiv.org/pdf/2012.02825v1.pdf']
+535,ECMO,3,"['https://api.elsevier.com/content/article/pii/S0122726220300811', 'https://www.sciencedirect.com/science/article/pii/S0122726220300811?v=s5']"
+536,Raspbian Buster,1,['https://arxiv.org/pdf/2010.05247v1.pdf']
+537,NVERE,1,"['https://doi.org/10.1002/gch2.202000067', 'https://www.ncbi.nlm.nih.gov/pubmed/33173592/']"
+538,Data Acquisition,1,"['https://doi.org/10.1371/journal.ppat.1005817', 'https://www.ncbi.nlm.nih.gov/pubmed/27579713/']"
+539,Cytobank FCS File Concatenation,1,['https://doi.org/10.1101/2020.09.24.311498']
+540,WooTube,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7652918/']
+541,ROTACS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103198/']
+542,Zen2011,1,"['https://www.ncbi.nlm.nih.gov/pubmed/26166259/', 'https://www.sciencedirect.com/science/article/pii/S1094553915000747', 'https://doi.org/10.1016/j.pupt.2015.07.001', 'https://api.elsevier.com/content/article/pii/S1094553915000747']"
+543,HSA,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32918236/', 'https://doi.org/10.1007/s10822-020-00341-x']"
+544,ALDEx2,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193045/']
+545,BIODEV,1,"['https://www.ncbi.nlm.nih.gov/pubmed/19006507/', 'https://doi.org/10.1111/j.1708-8305.2008.00232.x']"
+546,WebAssembly,11,['https://arxiv.org/pdf/2011.09350v1.pdf']
+547,Multi Gauge,2,"['https://www.ncbi.nlm.nih.gov/pubmed/24966209/', 'https://doi.org/10.7554/elife.02910']"
+548,- GLUEGenes Linked by Underlying Evolution (GLUE),1,"['https://doi.org/10.1371/journal.ppat.1008902', 'https://www.ncbi.nlm.nih.gov/pubmed/33035262/']"
+549,Multichoice,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7330882/']
+550,SECT,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238719/']
+551,TMiRob,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7556569/']
+552,CELL QUEST,1,"['https://www.ncbi.nlm.nih.gov/pubmed/19740316/', 'https://doi.org/10.1111/j.1365-2567.2008.03030.x']"
+553,BrainLAB iPlan,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097478/']
+554,Pharos,2,"['https://api.elsevier.com/content/article/pii/S0166093421000227', 'https://www.ncbi.nlm.nih.gov/pubmed/33515664/', 'https://www.sciencedirect.com/science/article/pii/S0166093421000227?v=s5', 'https://doi.org/10.1016/j.jviromet.2021.114083']"
+555,SponzFest,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7656517/']
+556,Ibsen,1,"['https://api.elsevier.com/content/article/pii/S0034935620300827', 'https://www.sciencedirect.com/science/article/pii/S0034935620300827']"
+557,Quick,3,"['https://api.elsevier.com/content/article/pii/S1198743X15300732', 'https://www.sciencedirect.com/science/article/pii/S1198743X15300732']"
+558,MedSeg,2,"['https://api.elsevier.com/content/article/pii/S0031320321000133', 'https://www.ncbi.nlm.nih.gov/pubmed/33518813/', 'https://doi.org/10.1016/j.patcog.2021.107826', 'https://arxiv.org/pdf/2006.13276v1.pdf', 'https://www.sciencedirect.com/science/article/pii/S0031320321000133']"
+559,DF,2,['https://www.ncbi.nlm.nih.gov/pubmed/14739650/']
+560,Freegate,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7152225/']
+561,HyP,1,['http://europepmc.org/articles/pmc3449240?pdf=render']
+562,AGYW,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7368608/']
+563,Dell,1,"['https://doi.org/10.1186/s12913-020-05851-w', 'https://www.ncbi.nlm.nih.gov/pubmed/33168004/']"
+564,SilentReminderE,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32859157/', 'https://doi.org/10.1186/s12882-020-02008-z']"
+565,BNB,1,['https://arxiv.org/pdf/2005.10797v1.pdf']
+566,QTAS HORAS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095962/']
+567,TT,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32952243/', 'https://doi.org/10.1007/s10551-020-04616-z']"
+568,SimConnect SDK,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302236/']
+569,RDFa,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7586462/']
+570,est,7,"['https://www.ncbi.nlm.nih.gov/pubmed/22998755/', 'https://doi.org/10.1186/1743-422x-9-216']"
+571,QEVO®,5,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7278230/']
+572,Lasergene Ò,1,"['https://www.ncbi.nlm.nih.gov/pubmed/25861750/', 'https://doi.org/10.1016/j.meegid.2015.03.032', 'https://api.elsevier.com/content/article/pii/S1567134815001173', 'https://www.sciencedirect.com/science/article/pii/S1567134815001173']"
+573,PyTextRank,1,['https://arxiv.org/pdf/2010.16357v1.pdf']
+574,gem5,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7343417/']
+575,SISTA,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7223907/']
+576,BioMart ID converter,1,"['https://www.ncbi.nlm.nih.gov/pubmed/23631916/', 'https://doi.org/10.1128/mbio.00165-13']"
+577,Genome Detective Coronavirus Typing Tool,4,"['http://medrxiv.org/cgi/content/short/2020.05.05.20091611v1?rss=1', 'https://doi.org/10.1101/2020.05.05.20091611']"
+578,BLAST + application,1,"['https://doi.org/10.1021/acs.jcim.0c00634', 'https://www.ncbi.nlm.nih.gov/pubmed/32853525/']"
+579,WeDoctor,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7278286/']
+580,hrsACE2,1,"['https://api.elsevier.com/content/article/pii/S0009898120302503', 'https://www.sciencedirect.com/science/article/pii/S0009898120302503?v=s5', 'https://doi.org/10.1016/j.cca.2020.05.044', 'https://www.ncbi.nlm.nih.gov/pubmed/32474009/']"
+581,EUPHAS,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33060844/', 'https://doi.org/10.1038/s41581-020-00356-5']"
+582,Geneious ® Prime,1,"['https://doi.org/10.1101/2020.06.29.20142349', 'http://medrxiv.org/cgi/content/short/2020.06.29.20142349v1?rss=1']"
+583,Alphafold,2,"['https://doi.org/10.1093/bib/bbaa362', 'https://www.ncbi.nlm.nih.gov/pubmed/33348379/']"
+584,NET NEURON,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163953/']
+585,SICO - eVM),1,"['https://doi.org/10.2991/jegh.k.200628.001', 'https://www.ncbi.nlm.nih.gov/pubmed/32954711/']"
+586,RA,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161374/']
+587,MOE®,3,"['https://www.ncbi.nlm.nih.gov/pubmed/33052313/', 'https://doi.org/10.1016/j.imu.2020.100446', 'https://www.sciencedirect.com/science/article/pii/S2352914820305967?v=s5', 'https://api.elsevier.com/content/article/pii/S2352914820305967']"
+588,GEMx,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32957964/', 'https://doi.org/10.1186/s12909-020-02224-z']"
+589,ClinVar,6,"['https://doi.org/10.1002/jmv.26126', 'https://www.ncbi.nlm.nih.gov/pubmed/32492195/']"
+590,Lasergene PrimerSelect,1,"['https://www.ncbi.nlm.nih.gov/pubmed/23638038/', 'https://doi.org/10.1371/journal.pone.0062318']"
+591,Quickoffice,1,"['https://www.sciencedirect.com/science/article/pii/S1567539403001245', 'https://www.ncbi.nlm.nih.gov/pubmed/14990326/', 'https://api.elsevier.com/content/article/pii/S1567539403001245']"
+592,CELLQuest,8,"['https://doi.org/10.1016/j.ejmech.2018.07.032', 'https://www.sciencedirect.com/science/article/pii/S0223523418305889', 'https://www.ncbi.nlm.nih.gov/pubmed/30055465/', 'https://api.elsevier.com/content/article/pii/S0223523418305889']"
+593,CFDA,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355554/']
+594,Mojave,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32995140/', 'https://doi.org/10.1007/s40860-020-00111-4']"
+595,Genetic Profiler,1,['https://www.ncbi.nlm.nih.gov/pubmed/12905489/']
+596,LOCK,13,"['https://doi.org/10.1002/rmv.2106', 'https://www.ncbi.nlm.nih.gov/pubmed/32302058/']"
+597,MeaSurement Tool to Assess systematic Reviews - 2 (AMSTAR - 2),1,"['https://www.ncbi.nlm.nih.gov/pubmed/33326318/', 'https://doi.org/10.1177/1753466620976021']"
+598,ParFlow,13,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302287/']
+599,Air,4,"['https://doi.org/10.1007/s40506-015-0057-1', 'https://www.ncbi.nlm.nih.gov/pubmed/32226323/']"
+600,CONSTRAINT,2,['https://arxiv.org/pdf/2101.03291v1.pdf']
+601,surveillance,2,"['https://doi.org/10.1007/s11071-020-05853-7', 'https://www.ncbi.nlm.nih.gov/pubmed/32836819/']"
+602,/ Astra,1,"['https://api.elsevier.com/content/article/pii/S0168365918300725', 'https://doi.org/10.1016/j.jconrel.2018.02.012', 'https://www.ncbi.nlm.nih.gov/pubmed/29432822/', 'https://www.sciencedirect.com/science/article/pii/S0168365918300725']"
+603,- Base ld _ clump R packageMVMR R,1,"['https://doi.org/10.1101/2020.07.09.20149450', 'http://medrxiv.org/cgi/content/short/2020.07.09.20149450v1?rss=1']"
+604,Avadis,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127811/']
+605,RAINFOR,1,"['https://doi.org/10.1038/s41597-020-00766-x', 'https://www.ncbi.nlm.nih.gov/pubmed/33262346/']"
+606,ModEval,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7157477/']
+607,MuMIn R package,1,"['https://doi.org/10.1101/2021.02.01.21250935', 'http://medrxiv.org/cgi/content/short/2021.02.01.21250935v1?rss=1']"
+608,ARDIYRASY,2,"['https://doi.org/10.3389/fimmu.2018.00099', 'https://www.ncbi.nlm.nih.gov/pubmed/29441070/']"
+609,plethy,1,"['https://doi.org/10.1186/s12859-015-0547-7', 'https://www.ncbi.nlm.nih.gov/pubmed/25924931/']"
+610,LifeGene,46,"['https://doi.org/10.1186/1471-2334-14-319', 'https://www.ncbi.nlm.nih.gov/pubmed/24916787/']"
+611,AROME,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32580130/', 'https://doi.org/10.1016/j.ejca.2020.05.015', 'https://api.elsevier.com/content/article/pii/S0959804920302811', 'https://www.sciencedirect.com/science/article/pii/S0959804920302811']"
+612,PhosTransfer,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206318/']
+613,NIKON elements,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103170/']
+614,Parflow,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302287/']
+615,GtoImmuPdb,2,"['https://doi.org/10.1111/imm.13201', 'https://www.ncbi.nlm.nih.gov/pubmed/32297319/']"
+616,NanopolishComp,1,['https://doi.org/10.1101/2020.07.18.204362']
+617,Cochrane LibraryÓ,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095336/']
+618,RBPuite,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33297946/', 'https://doi.org/10.1186/s12864-020-07291-6']"
+619,InSHAPE,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7525076/']
+620,TOURGO,1,"['https://api.elsevier.com/content/article/pii/S1477893918303922', 'https://www.ncbi.nlm.nih.gov/pubmed/31102656/', 'https://doi.org/10.1016/j.tmaid.2019.05.009', 'https://www.sciencedirect.com/science/article/pii/S1477893918303922']"
+621,DNAnexus,6,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7410827/']
+622,TORIAL,1,['https://arxiv.org/pdf/2010.06694v1.pdf']
+623,JMAnalyser,1,"['https://doi.org/10.1155/2020/8831862', 'https://www.ncbi.nlm.nih.gov/pubmed/33163237/']"
+624,PNRG,1,['https://arxiv.org/pdf/2012.03472v1.pdf']
+625,NGAL,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095301/']
+626,ModRef,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7418129/']
+627,ReValidate,2,"['https://doi.org/10.1155/2020/7613569', 'https://www.ncbi.nlm.nih.gov/pubmed/33062041/']"
+628,Libdock,8,['https://doi.org/10.1101/2020.01.31.929695']
+629,CavityPlus,7,"['https://doi.org/10.1002/minf.202000096', 'https://www.ncbi.nlm.nih.gov/pubmed/32750187/']"
+630,EG,4,['https://arxiv.org/pdf/2012.12627v2.pdf']
+631,FORMA,1,"['https://api.elsevier.com/content/article/pii/S0094576518302479', 'https://www.sciencedirect.com/science/article/pii/S0094576518302479', 'https://doi.org/10.1016/j.actaastro.2018.10.042', 'https://www.ncbi.nlm.nih.gov/pubmed/32287491/']"
+632,SafeGraph Social Distancing Metrics,1,"['https://doi.org/10.1101/2020.06.15.20131979', 'http://medrxiv.org/cgi/content/short/2020.06.15.20131979v1?rss=1']"
+633,GPT AI GPT,1,['https://arxiv.org/pdf/2006.10964v2.pdf']
+634,Verizon LTE,1,['https://arxiv.org/pdf/2010.02781v1.pdf']
+635,Ansys,9,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553372/']
+636,TOLLIP,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4525466/']
+637,mol2,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3787967/']
+638,Salesforce,3,"['https://www.ncbi.nlm.nih.gov/pubmed/33456318/', 'https://doi.org/10.1007/s10586-020-03225-9']"
+639,sowas,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5201231/']
+640,Jason,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32603793/', 'https://www.sciencedirect.com/science/article/pii/S1532046420301118?v=s5', 'https://api.elsevier.com/content/article/pii/S1532046420301118', 'https://doi.org/10.1016/j.jbi.2020.103483']"
+641,Doc2Query,1,"['http://medrxiv.org/cgi/content/short/2020.10.15.20213645v1?rss=1', 'https://doi.org/10.1101/2020.10.15.20213645']"
+642,NormFinder,297,"['https://doi.org/10.1186/1756-0500-3-101', 'https://www.ncbi.nlm.nih.gov/pubmed/20398263/']"
+643,BibTeX,3,"['https://doi.org/10.1016/j.micpath.2020.104319', 'https://www.sciencedirect.com/science/article/pii/S0882401020306859?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/32579993/', 'https://api.elsevier.com/content/article/pii/S0882401020306859']"
+644,Spiral,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33250610/', 'https://doi.org/10.1007/s11423-020-09871-5']"
+645,AllKNN,1,"['https://arxiv.org/pdf/2004.05835v3.pdf', 'https://doi.org/10.1016/j.cmpb.2020.105532', 'https://api.elsevier.com/content/article/pii/S0169260720309664', 'https://www.sciencedirect.com/science/article/pii/S0169260720309664?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/32446037/']"
+646,R 0 package,1,"['https://doi.org/10.1016/j.nmni.2020.100715', 'https://www.sciencedirect.com/science/article/pii/S2052297520300676?v=s5', 'https://api.elsevier.com/content/article/pii/S2052297520300676', 'https://www.ncbi.nlm.nih.gov/pubmed/32566233/']"
+647,deseq2,1,"['https://doi.org/10.1053/j.gastro.2020.10.021', 'https://www.sciencedirect.com/science/article/pii/S0016508520352781?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/33075345/', 'https://api.elsevier.com/content/article/pii/S0016508520352781']"
+648,EEGLAB,11,"['https://doi.org/10.1111/psyp.13659', 'https://www.ncbi.nlm.nih.gov/pubmed/32748964/']"
+649,Climate Action Tracker (CAT,1,"['https://www.sciencedirect.com/science/article/pii/S014098832030205X?v=s5', 'https://doi.org/10.1016/j.eneco.2020.104865', 'https://api.elsevier.com/content/article/pii/S014098832030205X', 'https://www.ncbi.nlm.nih.gov/pubmed/32834202/']"
+650,SAMtools,16,"['http://medrxiv.org/cgi/content/short/2020.07.14.20150979v1?rss=1', 'https://doi.org/10.1101/2020.07.14.20150979']"
+651,Google Adsense,1,"['https://www.ncbi.nlm.nih.gov/pubmed/25170475/', 'https://doi.org/10.4081/jphr.2013.e4']"
+652,BORE,14,['https://arxiv.org/pdf/2102.01921v1.pdf']
+653,Google Maps Java - Script API,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127016/']
+654,ISDE,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197607/']
+655,RBS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7345302/']
+656,ESTO,1,"['https://www.sciencedirect.com/science/article/pii/S187705091200508X', 'https://www.ncbi.nlm.nih.gov/pubmed/32288895/', 'https://doi.org/10.1016/j.procs.2012.06.151', 'https://api.elsevier.com/content/article/pii/S187705091200508X']"
+657,NIMPLY,1,['https://doi.org/10.1101/2020.12.10.419440']
+658,NetFlix,2,"['https://arxiv.org/pdf/2004.13569v2.pdf', 'https://www.sciencedirect.com/science/article/pii/S1389128620306046?v=s5', 'https://api.elsevier.com/content/article/pii/S1389128620306046']"
+659,PAIR,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206301/']
+660,Jalview,109,"['https://doi.org/10.1186/s12967-020-02501-x', 'https://www.ncbi.nlm.nih.gov/pubmed/32878627/']"
+661,NoSQL MongoDB,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256582/']
+662,NetMHCIIpanImmune Epitope Database and Analysis Resource (IEDB),1,"['https://api.elsevier.com/content/article/pii/B9780128096338201003', 'https://www.sciencedirect.com/science/article/pii/B9780128096338201003']"
+663,ISEV,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735957/']
+664,Apache Hama,1,"['https://doi.org/10.1016/j.inffus.2015.08.005', 'https://www.sciencedirect.com/science/article/pii/S1566253515000780', 'https://www.ncbi.nlm.nih.gov/pubmed/32288689/', 'https://api.elsevier.com/content/article/pii/S1566253515000780']"
+665,Nat,5,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4913621/']
+666,PredPhosphoScansite,1,"['https://www.ncbi.nlm.nih.gov/pubmed/20423529/', 'https://doi.org/10.1186/1471-2105-11-210']"
+667,Packmol,4,"['https://www.ncbi.nlm.nih.gov/pubmed/32353978/', 'https://doi.org/10.3390/ijms21093099']"
+668,ACCpro20,1,['https://doi.org/10.1101/2020.07.10.171769']
+669,Svft,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7091737/']
+670,LAPK,1,"['https://www.sciencedirect.com/science/article/pii/S1198743X15600775', 'https://api.elsevier.com/content/article/pii/S1198743X15600775']"
+671,XENON,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33424225/', 'https://doi.org/10.1007/jhep12(2020)194', 'https://arxiv.org/pdf/2008.05029v2.pdf']"
+672,Etherpads,1,"['https://doi.org/10.1002/ece3.6835', 'https://www.ncbi.nlm.nih.gov/pubmed/33250993/']"
+673,CLeVer,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7788606/']
+674,Statistical Package of Social Sciences software (SPSS),1,"['https://www.ncbi.nlm.nih.gov/pubmed/32574314/', 'https://doi.org/10.3389/fpubh.2020.00254']"
+675,CCUM,5,"['https://www.ncbi.nlm.nih.gov/pubmed/33527093/', 'https://doi.org/10.1007/s41701-021-00098-0']"
+676,ICCMS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7818095/']
+677,Solid Works,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7424960/']
+678,COGS,1,"['https://doi.org/10.3389/fbioe.2020.01020', 'https://www.ncbi.nlm.nih.gov/pubmed/32974328/']"
+679,VizWiz,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7479805/']
+680,ROBOT,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103177/']
+681,COVIDResNet,2,['https://arxiv.org/pdf/2010.08115v1.pdf']
+682,OpenSMILES,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7495975/']
+683,Molecular Evolutionary Genetics Analysis 6 .,1,"['https://www.ncbi.nlm.nih.gov/pubmed/31902509/', 'https://doi.org/10.1016/j.vetmic.2019.108513', 'https://api.elsevier.com/content/article/pii/S0378113519309253', 'https://www.sciencedirect.com/science/article/pii/S0378113519309253']"
+684,Hydrasys,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6439134/']
+685,PORTACOUNT Pro +,1,"['https://doi.org/10.1038/s41598-020-80908-8', 'https://www.ncbi.nlm.nih.gov/pubmed/33469049/']"
+686,Instant Messenger,1,['https://arxiv.org/pdf/2101.08221v1.pdf']
+687,- Logger,1,['https://arxiv.org/pdf/2005.14585v1.pdf']
+688,RDP (Recombination Detection Program),1,"['https://www.ncbi.nlm.nih.gov/pubmed/20840780/', 'https://doi.org/10.1186/1743-422x-7-227']"
+689,NDE Process,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7778845/']
+690,ANVUR,2,['https://arxiv.org/pdf/2012.03649v1.pdf']
+691,OpenCV,9,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7164006/']
+692,SubtiWiki,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7608354/']
+693,proc,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510809/']
+694,SOLSIM,1,"['https://api.elsevier.com/content/article/pii/S0038092X20308793', 'https://www.sciencedirect.com/science/article/pii/S0038092X20308793', 'https://doi.org/10.1016/j.solener.2020.08.041', 'https://www.ncbi.nlm.nih.gov/pubmed/32863443/']"
+695,gp10,2,['https://arxiv.org/pdf/2012.03782v1.pdf']
+696,NeaNet,9,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206307/']
+697,fysiek,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7773796/']
+698,OntoGaCLeS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334152/']
+699,GlycoWorkbench,5,['https://doi.org/10.1101/2020.08.26.269043']
+700,MedicalGIS,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33361054/', 'https://doi.org/10.2196/23379']"
+701,Comate,1,"['https://www.ncbi.nlm.nih.gov/pubmed/30668611/', 'https://doi.org/10.1371/journal.ppat.1007545']"
+702,EnCOM,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32851910/', 'https://doi.org/10.1080/07391102.2020.1811774']"
+703,MATHia,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334722/']
+704,Medscape,21,"['https://www.ncbi.nlm.nih.gov/pubmed/20409366/', 'https://doi.org/10.3201/eid1605.091801']"
+705,HELIYON,1,"['https://www.sciencedirect.com/science/article/pii/S2405844020318533?v=s5', 'https://doi.org/10.1016/j.heliyon.2020.e05010', 'https://api.elsevier.com/content/article/pii/S2405844020318533', 'https://www.ncbi.nlm.nih.gov/pubmed/32984567/']"
+706,Pharma,4,"['https://doi.org/10.1007/s11096-016-0404-4', 'https://www.ncbi.nlm.nih.gov/pubmed/28074393/']"
+707,Digital,13,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167111/']
+708,Network View,1,['https://doi.org/10.1101/2020.04.02.017004']
+709,ProteoWizard,1,"['https://doi.org/10.3390/metabo11010044', 'https://www.ncbi.nlm.nih.gov/pubmed/33435351/']"
+710,Excel Bedmaster,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103895/']
+711,Google Trends Search Trends,1,"['https://doi.org/10.1038/s41598-020-77316-3', 'https://www.ncbi.nlm.nih.gov/pubmed/33239650/']"
+712,Qry,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4264204/']
+713,ABGD,1,"['https://doi.org/10.1007/s10750-020-04497-3', 'https://www.ncbi.nlm.nih.gov/pubmed/33424031/']"
+714,JPRED,7,"['https://www.sciencedirect.com/science/article/pii/S0042682214000592', 'https://api.elsevier.com/content/article/pii/S0042682214000592', 'https://doi.org/10.1016/j.virol.2014.02.015', 'https://www.ncbi.nlm.nih.gov/pubmed/24725935/']"
+715,Google Correlate Service,1,"['https://doi.org/10.1007/s00345-020-03477-5', 'https://www.ncbi.nlm.nih.gov/pubmed/33108478/']"
+716,SPARTA,10,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789766/']
+717,Hyperchem |,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7087546/']
+718,ACHR,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6718391/']
+719,PodCastle,1,['https://arxiv.org/pdf/1002.4682v1.pdf']
+720,Anaglyph,1,"['https://www.ncbi.nlm.nih.gov/pubmed/18798692/', 'https://doi.org/10.1371/journal.pbio.0060226']"
+721,ler9,1,"['https://doi.org/10.1038/s41541-020-00237-9', 'https://www.ncbi.nlm.nih.gov/pubmed/32944295/']"
+722,Google Pixel 2,1,['https://arxiv.org/pdf/2007.00894v1.pdf']
+723,Tophat2 mapper,1,"['https://doi.org/10.3389/fimmu.2014.00655', 'https://www.ncbi.nlm.nih.gov/pubmed/25620967/']"
+724,Rotarix,3,"['https://www.ncbi.nlm.nih.gov/pubmed/30215578/', 'https://doi.org/10.1080/21645515.2018.1520583']"
+725,Sunquest Integrated Clinical Environment (ICE),1,"['https://www.ncbi.nlm.nih.gov/pubmed/33312796/', 'https://doi.org/10.7759/cureus.11398']"
+726,FastMLGraphical Representation of Ancestral Sequence Predictions (GRASP),1,['https://doi.org/10.1101/2020.06.22.165787']
+727,GeneOverlap,7,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7363816/']
+728,Mapman,6,"['https://www.ncbi.nlm.nih.gov/pubmed/33054972/', 'https://doi.org/10.7554/elife.58795']"
+729,DECAF,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7169131/']
+730,Brant,1,"['https://api.elsevier.com/content/article/pii/S2542660520301293', 'https://www.sciencedirect.com/science/article/pii/S2542660520301293?v=s5']"
+731,ANODE,1,['https://arxiv.org/pdf/2010.14685v1.pdf']
+732,Vowpal Wabbit,1,['https://arxiv.org/pdf/2004.01740v1.pdf']
+733,MyStudies,1,"['https://doi.org/10.1002/hep.31491', 'https://www.ncbi.nlm.nih.gov/pubmed/32740969/']"
+734,LungMAP,2,"['https://doi.org/10.3390/cancers12082186', 'https://www.ncbi.nlm.nih.gov/pubmed/32764454/']"
+735,PhenomeNET,1,['https://doi.org/10.1101/2020.04.22.055095']
+736,iSCAN,3,"['https://www.ncbi.nlm.nih.gov/pubmed/32822689/', 'https://doi.org/10.1016/j.virusres.2020.198129', 'https://www.sciencedirect.com/science/article/pii/S0168170220310364?v=s5', 'https://api.elsevier.com/content/article/pii/S0168170220310364']"
+737,Exscientia,2,"['https://api.elsevier.com/content/article/pii/S2666651020300012', 'https://www.sciencedirect.com/science/article/pii/S2666651020300012?v=s5']"
+738,Phidgets,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33404526/', 'https://doi.org/10.1107/s2059798320014114']"
+739,Yahoo,79,"['http://www.cell.com/article/S193131281500061X/pdf', 'https://www.ncbi.nlm.nih.gov/pubmed/25766284/', 'https://www.sciencedirect.com/science/article/pii/S193131281500061X', 'https://api.elsevier.com/content/article/pii/S193131281500061X', 'https://doi.org/10.1016/j.chom.2015.02.004']"
+740,DUET,18,['https://doi.org/10.1101/2020.05.29.124610']
+741,Code Orange,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7123487/']
+742,Power Data Access Viewer (DAV),1,"['https://doi.org/10.1002/pa.2222', 'https://www.ncbi.nlm.nih.gov/pubmed/32837322/']"
+743,SBDiEM,3,"['https://doi.org/10.1016/j.chaos.2020.109828', 'https://www.ncbi.nlm.nih.gov/pubmed/32327901/', 'https://api.elsevier.com/content/article/pii/S0960077920302289', 'https://www.sciencedirect.com/science/article/pii/S0960077920302289?v=s5']"
+744,Network Field Bioinformatics,1,['https://doi.org/10.1101/2020.07.01.181867']
+745,taGenome ANalyzer (MEGAN),1,"['https://doi.org/10.1111/prd.12010', 'https://www.ncbi.nlm.nih.gov/pubmed/23574465/', 'http://europepmc.org/articles/pmc3912758?pdf=render']"
+746,MASROOR,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32419177/', 'https://doi.org/10.1111/jocs.14638']"
+747,COVID Tool,1,['https://doi.org/10.1101/2020.03.25.20043711']
+748,dbAMP,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33333996/', 'https://doi.org/10.3390/ijms21249552']"
+749,wordclouds,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33250876/', 'https://doi.org/10.3389/fmicb.2020.588918']"
+750,Grad,238,['https://arxiv.org/pdf/2101.12254v1.pdf']
+751,Euroqol,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33068237/', 'https://doi.org/10.1007/s11136-020-02626-y']"
+752,GHSI,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32892793/', 'https://doi.org/10.1017/s0950268820002046']"
+753,LifeBridge,1,"['https://doi.org/10.1101/2020.08.13.20171751', 'http://medrxiv.org/cgi/content/short/2020.08.13.20171751v1?rss=1']"
+754,GeneXpert,90,"['https://www.ncbi.nlm.nih.gov/pubmed/33469065/', 'https://doi.org/10.1038/s41598-020-80352-8']"
+755,bcl2fastq,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6181419/']
+756,Vektorbasis,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483070/']
+757,AI Covid Tracker,1,"['https://doi.org/10.1101/2020.06.09.20126565', 'http://medrxiv.org/cgi/content/short/2020.06.09.20126565v1?rss=1']"
+758,PRETEXT,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3481066/']
+759,AXIS,11,"['https://www.ncbi.nlm.nih.gov/pubmed/32638436/', 'https://doi.org/10.1111/apt.15916']"
+760,Jelinek,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250595/']
+761,Prism5,4,"['https://doi.org/10.3390/vaccines7040180', 'https://www.ncbi.nlm.nih.gov/pubmed/31717334/']"
+762,Our World,3,"['https://doi.org/10.3390/ijerph17186487', 'https://www.ncbi.nlm.nih.gov/pubmed/32899971/']"
+763,HRV Python,1,['https://arxiv.org/pdf/2101.00771v1.pdf']
+764,BIOSIM,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2492840/']
+765,R Core TeamR Foundation for Statistical Computing,1,"['https://doi.org/10.1093/noajnl/vdaa119', 'https://www.ncbi.nlm.nih.gov/pubmed/33392502/']"
+766,GENOMIT,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7087606/']
+767,SpaceTugs,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32834186/', 'https://www.sciencedirect.com/science/article/pii/S0094576520304598?v=s5', 'https://api.elsevier.com/content/article/pii/S0094576520304598', 'https://doi.org/10.1016/j.actaastro.2020.07.032']"
+768,EVAMICA,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095199/']
+769,LISA (Local Indicators of Spatial Autocorrelation),1,"['https://www.ncbi.nlm.nih.gov/pubmed/33188767/', 'https://www.sciencedirect.com/science/article/pii/S0013935120313566?v=s5', 'https://doi.org/10.1016/j.envres.2020.110459', 'https://api.elsevier.com/content/article/pii/S0013935120313566']"
+770,SumP,1,['https://arxiv.org/pdf/2010.06467v1.pdf']
+771,LogNewTestit,3,"['http://medrxiv.org/cgi/content/short/2020.11.03.20225581v1?rss=1', 'https://doi.org/10.1101/2020.11.03.20225581']"
+772,PureProfile,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32836998/', 'https://api.elsevier.com/content/article/pii/S0967070X20306880', 'https://doi.org/10.1016/j.tranpol.2020.08.004', 'https://www.sciencedirect.com/science/article/pii/S0967070X20306880?v=s5']"
+773,BSAT,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7363222/']
+774,Maxent,42,"['https://www.ncbi.nlm.nih.gov/pubmed/26973845/', 'https://doi.org/10.3389/fvets.2016.00019']"
+775,UMLS,17,"['https://www.ncbi.nlm.nih.gov/pubmed/32836694/', 'https://api.elsevier.com/content/article/pii/S0306457320308359', 'https://doi.org/10.1016/j.ipm.2020.102340', 'https://www.sciencedirect.com/science/article/pii/S0306457320308359']"
+776,Builder,10,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754978/']
+777,Tweet Collection,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32836694/', 'https://api.elsevier.com/content/article/pii/S0306457320308359', 'https://doi.org/10.1016/j.ipm.2020.102340', 'https://www.sciencedirect.com/science/article/pii/S0306457320308359']"
+778,SiScan3Seq,1,"['https://www.sciencedirect.com/science/article/pii/S0378113510001173', 'https://api.elsevier.com/content/article/pii/S0378113510001173', 'https://doi.org/10.1016/j.vetmic.2010.02.027', 'https://www.ncbi.nlm.nih.gov/pubmed/20299165/']"
+779,Tax4Fun,2,"['https://api.elsevier.com/content/article/pii/S2468012520300018', 'https://www.sciencedirect.com/science/article/pii/S2468012520300018']"
+780,QProbe,2,"['https://www.ncbi.nlm.nih.gov/pubmed/29763640/', 'https://doi.org/10.1016/j.jviromet.2018.05.006', 'https://www.sciencedirect.com/science/article/pii/S0166093418301058', 'https://api.elsevier.com/content/article/pii/S0166093418301058']"
+781,Tensorflow Lite,2,['https://doi.org/10.1101/2020.09.04.283085']
+782,Frontage,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7831241/']
+783,MS,31,['https://doi.org/10.1101/2020.05.12.088542']
+784,HUIM,10,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206287/']
+785,Taverna workbench,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161634/']
+786,Cellvizio,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103183/']
+787,RestNetAtteRadi,1,['https://arxiv.org/pdf/2101.04269v1.pdf']
+788,R package RobLox,1,['https://arxiv.org/pdf/1304.2069v1.pdf']
+789,rSARS,2,"['https://www.ncbi.nlm.nih.gov/pubmed/22028656/', 'https://doi.org/10.1371/journal.ppat.1002315']"
+790,Google Cloud©,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189528/']
+791,ORALVAC,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149265/']
+792,CombiMatrix System,1,"['https://api.elsevier.com/content/article/pii/S0213005X08000402', 'https://www.sciencedirect.com/science/article/pii/S0213005X08000402']"
+793,ICEM,6,"['https://doi.org/10.1016/j.jaerosci.2020.105700', 'https://www.sciencedirect.com/science/article/pii/S0021850220301853?v=s5', 'https://api.elsevier.com/content/article/pii/S0021850220301853', 'https://www.ncbi.nlm.nih.gov/pubmed/33100375/']"
+794,Cellclone,1,"['https://www.sciencedirect.com/science/article/pii/S187603411630020X', 'https://doi.org/10.1016/j.jiph.2016.04.003', 'https://www.ncbi.nlm.nih.gov/pubmed/27102927/', 'https://api.elsevier.com/content/article/pii/S187603411630020X']"
+795,Sierra PlotCoverage,1,['https://doi.org/10.1101/867309']
+796,R library AED,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088011/']
+797,Mathigon,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334674/']
+798,DAWn,1,"['https://doi.org/10.1186/s13063-020-04878-y', 'https://www.ncbi.nlm.nih.gov/pubmed/33298149/']"
+799,Alcaniz,1,"['https://doi.org/10.1101/2020.11.04.20225656', 'http://medrxiv.org/cgi/content/short/2020.11.04.20225656v1?rss=1']"
+800,EXMA,1,['https://arxiv.org/pdf/2101.05314v1.pdf']
+801,OTseeker,2,"['https://doi.org/10.1007/s41999-020-00414-y', 'https://www.ncbi.nlm.nih.gov/pubmed/33058019/']"
+802,GenEpiSim,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6781107/']
+803,CAPRI,52,"['https://doi.org/10.1007/s00520-020-05968-y', 'https://www.ncbi.nlm.nih.gov/pubmed/33462724/']"
+804,ode45,1,"['http://medrxiv.org/cgi/content/short/2020.05.11.20098517v1?rss=1', 'https://doi.org/10.1101/2020.05.11.20098517']"
+805,FogBus,4,"['https://api.elsevier.com/content/article/pii/S254266052030055X', 'https://www.sciencedirect.com/science/article/pii/S254266052030055X?v=s5']"
+806,Native,1,['https://arxiv.org/pdf/2009.13211v1.pdf']
+807,BLAST® search,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6844444/']
+808,iAMPpred,1,"['https://doi.org/10.3389/fphar.2020.01075', 'https://www.ncbi.nlm.nih.gov/pubmed/32774304/']"
+809,node2vec,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148220/']
+810,CLC Genomics Workbench assembler,3,"['https://doi.org/10.3389/fmicb.2014.00714', 'https://www.ncbi.nlm.nih.gov/pubmed/25566226/']"
+811,R package clusterprofiler,1,"['https://doi.org/10.1101/2020.05.05.20091355', 'http://medrxiv.org/cgi/content/short/2020.05.05.20091355v1?rss=1']"
+812,MendelianRandomization,3,"['https://doi.org/10.1183/13993003.03545-2020', 'https://www.ncbi.nlm.nih.gov/pubmed/33214204/']"
+813,lightcycler,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108586/']
+814,StyleGAN2,5,['https://arxiv.org/pdf/2011.05421v1.pdf']
+815,CSSA,9,"['https://www.ncbi.nlm.nih.gov/pubmed/32085532/', 'https://doi.org/10.3390/ijerph17041305']"
+816,Test,3,['https://arxiv.org/pdf/2012.10787v1.pdf']
+817,vMISTR1,1,"['https://doi.org/10.1371/journal.pbio.3001045', 'https://www.ncbi.nlm.nih.gov/pubmed/33370271/']"
+818,alakazam R package,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33384691/', 'https://doi.org/10.3389/fimmu.2020.605170']"
+819,Informit Online,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32747989/', 'https://doi.org/10.1007/s00520-020-05645-0']"
+820,DREEM,20,"['https://doi.org/10.3390/v12121473', 'https://www.ncbi.nlm.nih.gov/pubmed/33371200/']"
+821,Image Analysis Phantom®,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666652/']
+822,Google [UNK],5,"['https://www.ncbi.nlm.nih.gov/pubmed/32923248/', 'https://doi.org/10.7759/cureus.9648']"
+823,Matlab Live - Script,1,"['http://medrxiv.org/cgi/content/short/2020.12.01.20242263v1?rss=1', 'https://doi.org/10.1101/2020.12.01.20242263']"
+824,DASware®,2,"['https://www.ncbi.nlm.nih.gov/pubmed/33515287/', 'https://doi.org/10.1007/s00253-020-11050-8']"
+825,Research Square,2,['https://doi.org/10.1101/2020.04.27.063578']
+826,InFACT,1,"['https://doi.org/10.1097/cce.0000000000000098', 'https://www.ncbi.nlm.nih.gov/pubmed/32426740/']"
+827,antsBrainExtraction,2,"['https://api.elsevier.com/content/article/pii/S2451902220302457', 'https://www.sciencedirect.com/science/article/pii/S2451902220302457?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/33097469/', 'https://doi.org/10.1016/j.bpsc.2020.08.010']"
+828,SOLOMON,1,"['https://doi.org/10.1371/journal.ppat.1001038', 'https://www.ncbi.nlm.nih.gov/pubmed/20862324/']"
+829,Biacore evaluation,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893700/']
+830,OPTLC,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32825718/', 'https://doi.org/10.3390/toxins12090539']"
+831,Gencode,9,"['https://www.ncbi.nlm.nih.gov/pubmed/32899429/', 'https://doi.org/10.3390/ijms21176447']"
+832,CharUtils,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7418129/']
+833,DANONE,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163711/']
+834,SnapGene,3,"['https://doi.org/10.1371/journal.pone.0237181', 'https://www.ncbi.nlm.nih.gov/pubmed/32813697/']"
+835,CODA,9,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7733611/']
+836,Golden Helix,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103267/']
+837,Modelrisk,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163673/']
+838,PanCast,115,['https://arxiv.org/pdf/2011.08069v1.pdf']
+839,bed2diffs,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149848/']
+840,Hybrid Capture,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7162248/']
+841,LightCycler 480 Service,2,"['https://doi.org/10.1186/s12985-017-0915-1', 'https://www.ncbi.nlm.nih.gov/pubmed/29304825/']"
+842,DivErsity pArtitioning by hieRarchical Clustering (DEmARC),1,"['https://doi.org/10.1038/s41564-020-0709-x', 'https://www.ncbi.nlm.nih.gov/pubmed/32341570/']"
+843,ExPaSy,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7763493/']
+844,pot,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7159123/']
+845,Stemade,1,"['https://doi.org/10.1007/s12098-016-2206-z', 'https://www.ncbi.nlm.nih.gov/pubmed/27510612/']"
+846,MiSeq,9,"['https://www.ncbi.nlm.nih.gov/pubmed/32935098/', 'https://doi.org/10.1101/2020.09.11.291716']"
+847,RNASeq by Expectation Maximization (RSEM),1,"['https://doi.org/10.1186/s12866-019-1498-3', 'https://www.ncbi.nlm.nih.gov/pubmed/31182015/']"
+848,OR PnP,1,['https://arxiv.org/pdf/2011.02284v1.pdf']
+849,Vigileo Monitor,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7100097/']
+850,Veles,2,['https://arxiv.org/pdf/2003.00108v1.pdf']
+851,AcademicTwitter,1,"['https://doi.org/10.1007/s10067-020-05405-9', 'https://www.ncbi.nlm.nih.gov/pubmed/32939569/']"
+852,Solar,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33274064/', 'https://doi.org/10.7189/jgh.10.020425']"
+853,PedsAnesthesia,1,"['https://doi.org/10.3390/children7110233', 'https://www.ncbi.nlm.nih.gov/pubmed/33212904/']"
+854,XTRACTs,3,"['https://www.sciencedirect.com/science/article/pii/S0010482516300397', 'https://api.elsevier.com/content/article/pii/S0010482516300397', 'https://www.ncbi.nlm.nih.gov/pubmed/27089305/', 'https://doi.org/10.1016/j.compbiomed.2016.02.010']"
+855,Gene traffic,1,"['https://www.ncbi.nlm.nih.gov/pubmed/19397807/', 'https://doi.org/10.1186/1471-2229-9-46']"
+856,KIHASA,1,"['https://www.ncbi.nlm.nih.gov/pubmed/29979418/', 'https://doi.org/10.1097/md.0000000000011358']"
+857,Kodak Digital Science 1D Image Analysis,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC521691/']
+858,CustomVision,7,"['https://doi.org/10.1101/2020.05.21.20106518', 'http://medrxiv.org/cgi/content/short/2020.05.21.20106518v1?rss=1']"
+859,Sonosims®,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7448394/']
+860,WINGZ,1,"['https://www.sciencedirect.com/science/article/pii/016817029290067J', 'https://api.elsevier.com/content/article/pii/016817029290067J', 'https://www.ncbi.nlm.nih.gov/pubmed/1604932/']"
+861,AMSEO,9,"['https://doi.org/10.1016/j.asoc.2020.106385', 'https://www.ncbi.nlm.nih.gov/pubmed/32395097/', 'https://www.sciencedirect.com/science/article/pii/S1568494620303252?v=s5', 'https://api.elsevier.com/content/article/pii/S1568494620303252']"
+862,OligoAnalyzer,2,['https://doi.org/10.1101/2020.11.16.385468']
+863,MacroDox,1,"['https://www.ncbi.nlm.nih.gov/pubmed/16242152/', 'https://www.sciencedirect.com/science/article/pii/S0022283605010648', 'https://api.elsevier.com/content/article/pii/S0022283605010648']"
+864,mdtraj,2,"['https://doi.org/10.1021/acscentsci.0c01056', 'https://www.ncbi.nlm.nih.gov/pubmed/33140034/']"
+865,Cell QuestPro,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138800/']
+866,Matlab optimization toolbox,1,"['https://www.sciencedirect.com/science/article/pii/S0360132314001929', 'https://doi.org/10.1016/j.buildenv.2014.06.006', 'https://api.elsevier.com/content/article/pii/S0360132314001929', 'https://www.ncbi.nlm.nih.gov/pubmed/32288028/']"
+867,EstomatoNet,2,"['https://www.sciencedirect.com/science/article/pii/S1871402120301983?v=s5', 'https://api.elsevier.com/content/article/pii/S1871402120301983', 'https://doi.org/10.1016/j.dsx.2020.06.029', 'https://www.ncbi.nlm.nih.gov/pubmed/32593116/']"
+868,SOLiD,5,"['https://api.elsevier.com/content/article/pii/B9780128163528000023', 'https://www.sciencedirect.com/science/article/pii/B9780128163528000023']"
+869,R package wavethresh,1,['https://doi.org/10.1101/2021.01.21.427579']
+870,Excel Workbook,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33437139/', 'https://doi.org/10.1007/s12103-020-09602-9']"
+871,Kwd,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148057/']
+872,PMSYS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148101/']
+873,ImageCLEFlifelog,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148101/']
+874,SysML,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7281857/']
+875,IPN,1,['https://arxiv.org/pdf/2010.12493v2.pdf']
+876,UZH,1,['https://doi.org/10.1101/2020.12.03.410829']
+877,Line app,1,"['https://doi.org/10.1016/j.jfma.2020.03.007', 'https://www.sciencedirect.com/science/article/pii/S0929664620300814', 'https://www.ncbi.nlm.nih.gov/pubmed/32222336/', 'https://api.elsevier.com/content/article/pii/S0929664620300814']"
+878,igragh,1,"['https://www.sciencedirect.com/science/article/pii/S2210670721000469?v=s5', 'https://api.elsevier.com/content/article/pii/S2210670721000469']"
+879,IranMedexMagIran,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102202/']
+880,Dcomplex,4,['https://arxiv.org/pdf/2008.12473v1.pdf']
+881,MsigDB,1,['https://doi.org/10.1101/2020.04.27.063727']
+882,NPDL engine,1,"['https://www.ncbi.nlm.nih.gov/pubmed/22369688/', 'https://doi.org/10.1186/1471-2164-12-s4-s13']"
+883,CASCADE,28,"['https://www.ncbi.nlm.nih.gov/pubmed/33050900/', 'https://doi.org/10.1186/s12931-020-01513-x']"
+884,Chromeleon software,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7470892/']
+885,DeepLoc,4,['https://doi.org/10.1101/2021.01.14.426726']
+886,newbler assembler,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167908/']
+887,HFACSÀMaintenance,1,"['https://api.elsevier.com/content/article/pii/B9780128129951000130', 'https://www.sciencedirect.com/science/article/pii/B9780128129951000130']"
+888,luminex,1,"['http://medrxiv.org/cgi/content/short/2021.01.25.21250189v1?rss=1', 'https://doi.org/10.1101/2021.01.25.21250189']"
+889,ThT,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6650947/']
+890,QuAC,1,['https://arxiv.org/pdf/2010.01657v1.pdf']
+891,SPSS Stadistics,1,"['https://www.sciencedirect.com/science/article/pii/S0025775320304504?v=s5', 'https://api.elsevier.com/content/article/pii/S0025775320304504', 'https://www.ncbi.nlm.nih.gov/pubmed/32718719/', 'https://doi.org/10.1016/j.medcli.2020.06.026']"
+892,THECGE,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332765/']
+893,Waters MassLynx,1,"['https://api.elsevier.com/content/article/pii/S0022030220307888', 'https://doi.org/10.3168/jds.2019-18045', 'https://www.ncbi.nlm.nih.gov/pubmed/33041038/', 'https://www.sciencedirect.com/science/article/pii/S0022030220307888']"
+894,TWIM,1,['https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pro.3513']
+895,ileader,1,"['https://doi.org/10.1038/s42003-020-0849-9', 'https://www.ncbi.nlm.nih.gov/pubmed/32170151/']"
+896,Radar,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256214/']
+897,HemoFAXS,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7169346/']
+898,Illumina Nextseq 500,1,"['https://doi.org/10.3389/fcvm.2020.623012', 'https://www.ncbi.nlm.nih.gov/pubmed/33521069/']"
+899,Excel QI charts,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190252/']
+900,SIMMreported,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33526953/', 'https://doi.org/10.1007/s11747-020-00765-9']"
+901,SNVeff,1,"['https://doi.org/10.1186/s13073-020-00751-4', 'https://www.ncbi.nlm.nih.gov/pubmed/32605661/']"
+902,MPRAu,1,['https://doi.org/10.1101/2021.01.13.424697']
+903,Biolidics,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32665420/', 'https://doi.org/10.1128/jcm.01361-20']"
+904,Nextflow,2,"['https://doi.org/10.1093/bioinformatics/btaa871', 'https://www.ncbi.nlm.nih.gov/pubmed/33045068/']"
+905,wA,1,"['https://arxiv.org/pdf/2008.10685v2.pdf', 'https://www.ncbi.nlm.nih.gov/pubmed/33501352/', 'https://doi.org/10.3389/frobt.2020.592382']"
+906,AHSE,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33136279/', 'https://doi.org/10.1007/s10459-020-10006-x']"
+907,Widgets,1,"['https://www.ncbi.nlm.nih.gov/pubmed/29140470/', 'https://doi.org/10.1093/nar/gkx1095']"
+908,graphPad,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097086/']
+909,FIWARE NGSI,1,"['https://doi.org/10.3390/s20154131', 'https://www.ncbi.nlm.nih.gov/pubmed/32722319/']"
+910,. pl,3,"['https://doi.org/10.1016/j.jtbi.2009.05.011', 'https://www.ncbi.nlm.nih.gov/pubmed/19481099/', 'https://api.elsevier.com/content/article/pii/S0022519309002367', 'https://www.sciencedirect.com/science/article/pii/S0022519309002367']"
+911,DockRMSD,1,"['https://doi.org/10.1080/07391102.2020.1852964', 'https://www.ncbi.nlm.nih.gov/pubmed/33317409/']"
+912,Tableau Prep Builder,1,"['https://doi.org/10.1101/2020.11.17.20233023', 'http://medrxiv.org/cgi/content/short/2020.11.17.20233023v1?rss=1']"
+913,MLMP,1,['https://www.ncbi.nlm.nih.gov/pubmed/21618914/']
+914,Symploca,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33398273/', 'https://doi.org/10.1101/2020.12.23.424111']"
+915,DataLogger,1,['https://arxiv.org/pdf/2011.02284v1.pdf']
+916,Raspberry Pi,15,['https://arxiv.org/pdf/2006.10805v1.pdf']
+917,AutoPbsc,10,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7169291/']
+918,rpart,27,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7223654/']
+919,NosoLine,1,"['https://www.ncbi.nlm.nih.gov/pubmed/16183520/', 'https://www.sciencedirect.com/science/article/pii/S1473309905702437', 'https://api.elsevier.com/content/article/pii/S1473309905702437']"
+920,ti,108,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7168010/']
+921,Scanpy 163,1,['https://doi.org/10.1101/2020.04.19.049254']
+922,BioConda,3,['https://doi.org/10.1101/2020.12.09.418731']
+923,DrugScore (DSX),1,"['https://doi.org/10.1080/07391102.2020.1837680', 'https://www.ncbi.nlm.nih.gov/pubmed/33094680/']"
+924,TILEK,2,"['https://www.ncbi.nlm.nih.gov/pubmed/32316979/', 'https://doi.org/10.1186/s13002-020-00366-4']"
+925,mRFEI,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33082618/', 'https://doi.org/10.1016/j.foodpol.2020.101985', 'https://www.sciencedirect.com/science/article/pii/S0306919220301895', 'https://api.elsevier.com/content/article/pii/S0306919220301895']"
+926,Charazac,1,"['https://www.sciencedirect.com/science/article/pii/S0014385520301146', 'https://api.elsevier.com/content/article/pii/S0014385520301146', 'https://www.ncbi.nlm.nih.gov/pubmed/33106708/', 'https://doi.org/10.1016/j.evopsy.2020.09.002']"
+927,- Phylogenetic Tree Prediction (,1,"['https://doi.org/10.1186/1751-0147-52-1', 'https://www.ncbi.nlm.nih.gov/pubmed/20053278/']"
+928,Online Age Calculator,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088617/']
+929,iPeer2Peer,6,"['https://doi.org/10.3390/children7090129', 'https://www.ncbi.nlm.nih.gov/pubmed/32906581/']"
+930,Compute,3,"['https://doi.org/10.1016/j.ejps.2021.105744', 'https://www.ncbi.nlm.nih.gov/pubmed/33540040/', 'https://www.sciencedirect.com/science/article/pii/S0928098721000464?v=s5', 'https://api.elsevier.com/content/article/pii/S0928098721000464']"
+931,Rayyan,25,"['https://doi.org/10.1016/j.chiabu.2020.104710', 'https://www.ncbi.nlm.nih.gov/pubmed/32938531/', 'https://api.elsevier.com/content/article/pii/S0145213420303653', 'https://www.sciencedirect.com/science/article/pii/S0145213420303653?v=s5']"
+932,Nutriquiz,6,"['https://www.ncbi.nlm.nih.gov/pubmed/33478516/', 'https://doi.org/10.1186/s12937-021-00666-9']"
+933,PREVENTT,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836783/']
+934,CScape,2,"['https://doi.org/10.1111/2049-632x.12150', 'https://www.ncbi.nlm.nih.gov/pubmed/24488789/']"
+935,NSGA,16,['https://arxiv.org/pdf/2008.00395v1.pdf']
+936,Foursquare,9,"['https://api.elsevier.com/content/article/pii/S2210670720305862', 'https://www.ncbi.nlm.nih.gov/pubmed/32834933/', 'https://doi.org/10.1016/j.scs.2020.102365', 'https://www.sciencedirect.com/science/article/pii/S2210670720305862?v=s5']"
+937,Flutracker,2,"['http://medrxiv.org/cgi/content/short/2020.04.19.20071217v1?rss=1', 'https://doi.org/10.1101/2020.04.19.20071217']"
+938,Cart,1,"['https://www.ncbi.nlm.nih.gov/pubmed/30732598/', 'https://doi.org/10.1186/s12917-019-1802-3']"
+939,Inspector,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334982/']
+940,icolung,1,['https://arxiv.org/pdf/2011.11719v2.pdf']
+941,Twitter search REST Application Programming Interface,1,"['https://www.sciencedirect.com/science/article/pii/S0960077920304355?v=s5', 'https://api.elsevier.com/content/article/pii/S0960077920304355', 'https://doi.org/10.1016/j.chaos.2020.110037', 'https://www.ncbi.nlm.nih.gov/pubmed/32834597/']"
+942,3CLpro,11,"['https://www.ncbi.nlm.nih.gov/pubmed/33027419/', 'https://doi.org/10.1590/0074-02760200207']"
+943,OpenAPC,2,['https://arxiv.org/pdf/2008.04180v1.pdf']
+944,AtMAD,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33396976/', 'https://doi.org/10.1093/nar/gkaa1216']"
+945,ILOG,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7321708/']
+946,FlexURS,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103154/']
+947,mafft,42,"['https://www.sciencedirect.com/science/article/pii/S1198743X21000458?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/33524589/', 'https://doi.org/10.1016/j.cmi.2021.01.018', 'https://api.elsevier.com/content/article/pii/S1198743X21000458']"
+948,PeakForce QNM,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6925649/']
+949,BayesSMILES,25,"['https://doi.org/10.1101/2020.10.06.20208132', 'http://medrxiv.org/cgi/content/short/2020.10.06.20208132v1?rss=1', 'https://www.ncbi.nlm.nih.gov/pubmed/33469604/']"
+950,. exe,3,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812135/']
+951,lncRNA2Target,1,"['https://www.ncbi.nlm.nih.gov/pubmed/26697116/', 'https://doi.org/10.1186/s13040-015-0075-z']"
+952,RiNA,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7786855/']
+953,PepSeq,8,"['https://doi.org/10.1101/2020.07.27.222943', 'https://www.ncbi.nlm.nih.gov/pubmed/32743570/']"
+954,pygame,4,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7222957/']
+955,PrimeQuestÔ,1,"['https://www.ncbi.nlm.nih.gov/pubmed/27392420/', 'https://www.sciencedirect.com/science/article/pii/S0021997516300585', 'https://doi.org/10.1016/j.jcpa.2016.06.003', 'https://api.elsevier.com/content/article/pii/S0021997516300585']"
+956,GWCelery,3,['https://arxiv.org/pdf/2101.11673v2.pdf']
+957,RAEW,1,"['https://doi.org/10.1186/s12889-017-4319-3', 'https://www.ncbi.nlm.nih.gov/pubmed/28482830/']"
+958,diMusic,1,['https://arxiv.org/pdf/2010.07610v1.pdf']
+959,Tonometrics,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095207/']
+960,ChiroSolve,1,"['https://doi.org/10.3389/fphar.2020.569665', 'https://www.ncbi.nlm.nih.gov/pubmed/33364944/']"
+961,vTZ,1,"['https://doi.org/10.3390/s21020520', 'https://www.ncbi.nlm.nih.gov/pubmed/33450919/']"
+962,AICM,2,['https://arxiv.org/pdf/2011.12514v1.pdf']
+963,UPPMAX,2,"['https://www.ncbi.nlm.nih.gov/pubmed/28217745/', 'https://doi.org/10.1128/msystems.00125-16']"
+964,OpenABM,44,"['https://doi.org/10.1101/2020.09.16.20195925', 'http://medrxiv.org/cgi/content/short/2020.09.16.20195925v1?rss=1']"
+965,Statsmodel Holt,1,"['https://doi.org/10.1101/2020.07.22.20159913', 'http://medrxiv.org/cgi/content/short/2020.07.22.20159913v1?rss=1']"
+966,SOFIA,12,['https://arxiv.org/pdf/2101.01812v1.pdf']
+967,Excel Visual Basic,1,"['https://doi.org/10.1016/j.imu.2020.100442', 'https://api.elsevier.com/content/article/pii/S235291482030592X', 'https://www.sciencedirect.com/science/article/pii/S235291482030592X?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/33052312/']"
+968,BOFIT,1,"['https://api.elsevier.com/content/article/pii/S0264999320311792', 'https://doi.org/10.1016/j.econmod.2020.08.018', 'https://www.ncbi.nlm.nih.gov/pubmed/32904582/', 'https://www.sciencedirect.com/science/article/pii/S0264999320311792?v=s5']"
+969,GFOLD,1,"['https://api.elsevier.com/content/article/pii/S193131282030679X', 'https://www.sciencedirect.com/science/article/pii/S193131282030679X?v=s5', 'https://www.ncbi.nlm.nih.gov/pubmed/33388094/', 'https://doi.org/10.1016/j.chom.2020.12.016']"
+970,SHELXL2014,3,"['https://doi.org/10.1107/s2052520620004424', 'https://arxiv.org/pdf/2012.03067v1.pdf', 'https://www.ncbi.nlm.nih.gov/pubmed/32831261/']"
+971,VGStudio Max,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7835942/']
+972,DecPDSAG,1,['https://arxiv.org/pdf/2010.14325v1.pdf']
+973,LightGraphs,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7347410/']
+974,NAGT,1,['https://arxiv.org/pdf/2101.11294v1.pdf']
+975,COVIDOSE,16,"['https://www.ncbi.nlm.nih.gov/pubmed/32912961/', 'https://doi.org/10.1136/ejhpharm-2020-002414']"
+976,RespPlex,3,"['https://www.ncbi.nlm.nih.gov/pubmed/21460291/', 'https://doi.org/10.1093/cid/cir047']"
+977,RcppRoll,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33032601/', 'https://doi.org/10.1186/s12916-020-01791-8']"
+978,qSOFA,6,"['https://api.elsevier.com/content/article/pii/S0735675720306124', 'https://www.sciencedirect.com/science/article/pii/S0735675720306124?v=s5', 'https://doi.org/10.1016/j.ajem.2020.07.019', 'https://www.ncbi.nlm.nih.gov/pubmed/33142178/']"
+979,HC Image,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33006316/', 'https://doi.org/10.7554/elife.59554']"
+980,SiSCan,2,"['https://doi.org/10.1007/s00705-019-04488-3', 'https://www.ncbi.nlm.nih.gov/pubmed/31982944/']"
+981,Excel Office 365 ProPlus,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7608108/']
+982,Selecton Server,2,"['https://www.ncbi.nlm.nih.gov/pubmed/24693865/', 'https://doi.org/10.1186/1742-4690-11-27']"
+983,DGATs,7,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206156/']
+984,dynFPCA,1,"['https://doi.org/10.1101/2020.05.21.20109405', 'http://medrxiv.org/cgi/content/short/2020.05.21.20109405v1?rss=1']"
+985,Leksell GammaPlan,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32424565/', 'https://doi.org/10.1007/s00701-020-04400-y']"
+986,LabVIEW®,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7121714/']
+987,KADIS,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095876/']
+988,Epicentre,2,"['https://doi.org/10.1057/jphp.2014.51', 'https://www.ncbi.nlm.nih.gov/pubmed/25501973/']"
+989,SMARXT,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33218038/', 'https://doi.org/10.3390/pharmacy8040221']"
+990,EpiTrax,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32941418/', 'https://doi.org/10.15585/mmwr.mm6937e3']"
+991,PAT,3,"['https://www.ncbi.nlm.nih.gov/pubmed/32889643/', 'https://doi.org/10.1007/s10877-020-00586-9']"
+992,BIOVIA Discovery,1,['https://arxiv.org/pdf/2005.11767v1.pdf']
+993,Capron,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079834/']
+994,RAMED,1,"['https://www.ncbi.nlm.nih.gov/pubmed/32693808/', 'https://doi.org/10.1186/s12961-020-00591-z']"
+995,prME,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6963679/']
+996,ideaMakerSUITE,1,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7257444/']
+997,minSim,2,['https://doi.org/10.1101/2020.11.25.399238']
+998,REMAP−COVID,1,"['https://www.ncbi.nlm.nih.gov/pubmed/33435249/', 'https://doi.org/10.3390/ijerph18020530']"
+999,UW,2,['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7159717/']

@@ -26,8 +26,11 @@ import random
 
 # Define a function to convert "list strings" into lists
 def str_to_list(list_string, separator):
-    lst = list_string.replace('[', '').replace(']', '').replace("'", '').split(separator)
-    return [s.strip() for s in lst]
+    if isinstance(list_string, list):
+        return list_string
+    else:
+        lst = list_string.replace('[', '').replace(']', '').replace("'", '').split(separator)
+        return [s.strip() for s in lst]
 
 
 # Set paths

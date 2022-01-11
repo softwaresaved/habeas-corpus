@@ -22,6 +22,7 @@ import csv
 import pandas as pd
 import numpy as np
 import random
+import sys
 
 
 # Define a function to convert "list strings" into lists
@@ -43,9 +44,11 @@ df_csm = pd.read_csv(csm_path, converters={'software': pd.eval})
 
 df_top100 = pd.read_csv(top100_path)
 df_top100['urls'] = np.empty((len(df_top100), 0)).tolist()
+df_top100['rand_url'] = pd.Series(dtype=str)
 
 df_rand1k = pd.read_csv(random1k_path)
 df_rand1k['urls'] = np.empty((len(df_rand1k), 0)).tolist()
+df_rand1k['rand_url'] = pd.Series(dtype=str)
 
 # Amend URLs in datasets, iterate the CSM once only!
 for j, csm_row in df_csm.iterrows():
@@ -64,13 +67,19 @@ for j, csm_row in df_csm.iterrows():
         if rand1k_name in names:
             df_rand1k.at[i,'urls'].append(urls)
 
+# Save new files for backup
+top100_urls_path = top100_path[:-4] + '_urls.bkup.csv'
+df_top100.to_csv(top100_urls_path, encoding='utf8')
+rand1k_urls_path = random1k_path[:-4] + '_urls.bkup.csv'
+df_rand1k.to_csv(rand1k_urls_path, encoding='utf8')
+
 # Pick a random entry in 'urls' and add to column
 for i, top100_row in df_top100.iterrows():
     df_top100.at[i, 'rand_url'] = random.choice(str_to_list(top100_row['urls'], ','))
 for i, rand1k_row in df_rand1k.iterrows():
     df_rand1k.at[i, 'rand_url'] = random.choice(str_to_list(rand1k_row['urls'], ','))
 
-# Save new files
+# Resave new files
 top100_urls_path = top100_path[:-4] + '_urls.csv'
 df_top100.to_csv(top100_urls_path, encoding='utf8')
 rand1k_urls_path = random1k_path[:-4] + '_urls.csv'

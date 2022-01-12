@@ -75,9 +75,9 @@ df_rand1k.to_csv(rand1k_urls_path, encoding='utf8')
 
 # Pick a random entry in 'urls' and add to column
 for i, top100_row in df_top100.iterrows():
-    df_top100.at[i, 'rand_url'] = random.choice(str_to_list(top100_row['urls'], ','))
+    df_top100.at[i, 'rand_url'] = ';'.join(random.choice(str_to_list(top100_row['urls'], ',')))
 for i, rand1k_row in df_rand1k.iterrows():
-    df_rand1k.at[i, 'rand_url'] = random.choice(str_to_list(rand1k_row['urls'], ','))
+    df_rand1k.at[i, 'rand_url'] = ';'.join(random.choice(str_to_list(top100_row['urls'], ',')))
 
 # Resave new files
 top100_urls_path = top100_path[:-4] + '_urls.csv'

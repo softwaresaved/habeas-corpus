@@ -11,4 +11,4 @@ In particular:
 
 Additionally, this directory contains working copies.
 
-## :warning: **Do NOT use any of the files in this directory for annotation! Instead, use the files in `../annotation/`!
+## :warning: **Do NOT use any of the files in this directory for annotation! Instead, use the files in [`../annotation/`](../annotation/)!

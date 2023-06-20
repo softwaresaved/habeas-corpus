@@ -68,3 +68,7 @@ You can then run `jupyter notebook` to start the graphical user interface to wor
 Copyright (c) 2023 The authors
 
 These resources are shared under [CC BY-4.0 Intl.](https://spdx.org/licenses/CC-BY-4.0.html) (data) and the [MIT license](https://spdx.org/licenses/MIT.html) (code).
+
+## :warning: Security note
+
+If you find any security issue with the contents of this deposit, please write an email with details to [stephan.druskat@dlr.de](mailto:stephan.druskat@dlr.de).

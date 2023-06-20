@@ -30,6 +30,8 @@ The data directory contains:
 - The new annotated CSM sample (`CSM_sample.csv`)
 - The annotated CSM samples used for calculating Krippendorff's alpha (`IAA_*.csv`)
 - The annotated CZI sample (`ICZI_sample.csv`)
+- The annotated CSM sample with license information (`CSM_sampled_mention_license.csv`)
+- The annotated CSM sample with mention type information (`CSM_sampled_mention_access.csv`)
 
 The root directory also contains 
 

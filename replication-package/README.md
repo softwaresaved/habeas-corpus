@@ -31,7 +31,12 @@ The data directory contains:
 - The annotated CSM samples used for calculating Krippendorff's alpha (`IAA_*.csv`)
 - The annotated CZI sample (`ICZI_sample.csv`)
 
-The root directory also contains a copy of this README, and `requirements.txt` that contains the frozen dependencies that are necessary to run the notebooks.
+The root directory also contains 
+
+- a copy of this README, 
+- `requirements.txt` that contains the frozen dependencies that are necessary to run the notebooks,
+- a PDF with the annotation guidelines,
+- a Shell script that can be used to retrieve the CSM dataset.
 
 ## Dataset retrieval
 

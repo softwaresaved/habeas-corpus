@@ -62,7 +62,7 @@
 60,Marktest,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293961/,NAM,NA,Y,,,Y,,,,_ALL,Company
 61,Energy Quest,1,https://api.elsevier.com/content/article/pii/S0306261920312290;https://www.ncbi.nlm.nih.gov/pubmed/32904736/;https://doi.org/10.1016/j.apenergy.2020.115739;https://www.sciencedirect.com/science/article/pii/S0306261920312290?v=s5,PUB,NA,Y,,,Y,,,,_ALL,Company
 62,BAND,1,https://doi.org/10.1101/2020.10.08.330696,NAM,SN,Y,Y,Y,N,,,,_ALL,"A link to the repo is in the paper (https://github.com/seasonyao/BiorXivImpact), but is not mentioned anywhere near the software (or method) name"
-63,Google Chart API,2,https://www.ncbi.nlm.nih.gov/pubmed/24359669/;https://doi.org/10.1186/2049-9957-2-31,,UN,N,,,N,,,,_ALL,"""Google Chart API"" cannot be found anywhere in the paper"
+63,Google Chart API,2,https://www.ncbi.nlm.nih.gov/pubmed/24359669/;https://doi.org/10.1186/2049-9957-2-31,NOT,UN,N,,,N,,,,_ALL,"""Google Chart API"" cannot be found anywhere in the paper"
 64,PHASER (,1,https://www.ncbi.nlm.nih.gov/pubmed/33431856/;https://doi.org/10.1038/s41467-020-20501-9,PUB,SN,N,N,N,Y,,,,_ALL,"""PHASER (CCP4 Program Suite)"""
 65,TeKGraph,1,https://arxiv.org/pdf/2010.11367v2.pdf,NAM,NA,Y,,,Y,,,,_ALL,"Algorithm, not software. Probably a misspelling (in the paper) of ""TeX-Graph"", the method the paper discusses"
 66,RT 2 Profiles Array Data Analysis,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7164006/,NAM,SN,N,N,N,Y,,,,_ALL,"""RT2Profiles Array Data Analysis"" is actually ""RT2 Profiler PCR Array Data Analysis"", which seems to be a commercial webportal for molecular biology analyses based on the RT2 PCR tests"

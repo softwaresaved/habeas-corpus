@@ -1,15 +1,19 @@
-# Don’t mention it: challenges to using software mentions to investigate citation and discoverability - data and notebooks
+# Don’t mention it: challenges to using software mentions to investigate citation and discoverability - Data and Notebooks
 
 This deposit contains the data and Jupyter notebooks used for sampling and annotation analysis of
 our submission to the PeerJ Computer Science special issue [*Software Citation, Indexing, and Discoverability*](https://peerj.com/collections/84-software):
 
 `Stephan Druskat, Neil P. Chue Hong, Sammie Buzzard, Olexandr Konovalov, and Patrick Kornek. Don’t mention it: challenges to using software mentions to investigate citation and discoverability.`
 
+> **Note**
+>
+> If you just want to have a look at the contents of the replication package, you can view them in a GitHub repository at https://github.com/softwaresaved/habeas-corpus/tree/main/replication-package (includes notebook outputs).
+
 
 Datasets that were used:
 
 - Wade, Alex D., & Williams, Ivana. (2021). CORD-19 Software Mentions [Data set]. https://doi.org/10.5061/dryad.vmcvdncs0 (*CSM*)
-- Istrate, Ana-Maria et al. (2022), CZ Software Mentions: A large dataset of software mentions in the biomedical literature, Dryad, Dataset, https://doi.org/10.5061/dryad.6wwpzgn2c (*CZI)
+- Istrate, Ana-Maria et al. (2022), CZ Software Mentions: A large dataset of software mentions in the biomedical literature, Dryad, Dataset, https://doi.org/10.5061/dryad.6wwpzgn2c (*CZI*)
 
 The notebooks contain code for:
 
